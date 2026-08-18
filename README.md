@@ -17,9 +17,9 @@ Progress:
 
 -Mushrise Park: 🟢
 
--Dozing Sands: 🟡
+-Dozing Sands: 🟢
 
--Wakeport: 🟡
+-Wakeport: 🟢
 
 -Mount Pajamaja: 🟢
 
