@@ -1234,7 +1234,7 @@
       ]
     },
     {
-      "name": "Pi'illo Blimport (PB)",
+      "name": "Blimport (Bp)",
       "image": "images/2.png",
       "location_size": 32,
       "markers": [
@@ -2051,6 +2051,53 @@
                   "size": 14
                 }
               ]
+            },
+            {
+              "name": "Dream's Deep",
+              "image": "images/3-2-5.png",
+              "location_size": 32,
+              "markers": [
+                {
+                  "x": 1105,
+                  "y": 497,
+                  "locations": [
+                    "DPiC Learn Luiginary Ball Room Block"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 1407,
+                  "y": 460,
+                  "locations": [
+                    "DPiC Learn Luiginary Hookshot Room Block"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 760,
+                  "y": 639,
+                  "locations": [
+                    "DPiC Dream's Deep Room 5 Block 2"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 706,
+                  "y": 647,
+                  "locations": [
+                    "DPiC Dream's Deep Room 5 Block 1"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 265,
+                  "y": 671,
+                  "locations": [
+                    "DPiC Learn Luiginary Ball Hammer Room Block"
+                  ],
+                  "size": 14
+                }
+              ]
             }
           ]
         }
@@ -2708,8 +2755,23 @@
           "name": "Dream World",
           "tabs": [
             {
-              "name": "Eldream",
+              "name": "Pi'illo to Hammers",
               "image": "images/4-2-1.png",
+              "location_size": 32,
+              "markers": [
+                {
+                  "x": 157,
+                  "y": 82,
+                  "locations": [
+                    "DMrP Pi'illo to Hammers Block"
+                  ],
+                  "size": 14
+                }
+              ]
+            },
+            {
+              "name": "Eldream",
+              "image": "images/4-2-2.png",
               "location_size": 32,
               "markers": [
                 {
@@ -2947,21 +3009,6 @@
                   "size": 14
                 }
               ]
-            },
-            {
-              "name": "Pi'illo",
-              "image": "images/4-2-2.png",
-              "location_size": 32,
-              "markers": [
-                {
-                  "x": 157,
-                  "y": 82,
-                  "locations": [
-                    "DMrP Pi'illo to Hammers Block"
-                  ],
-                  "size": 14
-                }
-              ]
             }
           ]
         }
@@ -2985,14 +3032,14 @@
             },
             {
               "x": 698,
-              "y": 137,
+              "y": 133,
               "locations": [
                 "DzS Badge Room Bean Spot"
               ],
               "size": 14
             },
             {
-              "x": 639,
+              "x": 646,
               "y": 272,
               "locations": [
                 "DzS Mini/Mole Mario Tutorial Room Bean Spot 1"
@@ -3040,8 +3087,8 @@
               "size": 14
             },
             {
-              "x": 796,
-              "y": 297,
+              "x": 797,
+              "y": 301,
               "locations": [
                 "DzS Britta's Meeting Room Block 2"
               ],
@@ -3106,7 +3153,7 @@
             {
               "x": 762,
               "y": 533,
-              "label": "DDzS First Track Deco Pi'illo",
+              "label": "First Track Deco Pi'illo",
               "locations": [
                 "DDzS First Track Deco Pi'illo Room 2 Block",
                 "DDzS First Track Deco Pi'illo Room 3 Block"
@@ -3114,8 +3161,8 @@
               "size": 14
             },
             {
-              "x": 835,
-              "y": 522,
+              "x": 838,
+              "y": 523,
               "locations": [
                 "DzS Track Area Entrance Bean Spot 3"
               ],
@@ -3157,32 +3204,23 @@
             },
             {
               "x": 940,
-              "y": 301,
+              "y": 302,
               "locations": [
                 "DzS East End of Track Block 2"
               ],
               "size": 14
             },
             {
-              "x": 947,
-              "y": 312,
-              "label": "DDzS Final Track Deco Pi'illo",
-              "locations": [
-                "DDzS Final Track Deco Pi'illo Room 3 Block"
-              ],
-              "size": 14
-            },
-            {
-              "x": 832,
-              "y": 292,
+              "x": 835,
+              "y": 294,
               "locations": [
                 "DzS Britta's Meeting Room Bean Spot"
               ],
               "size": 14
             },
             {
-              "x": 825,
-              "y": 257,
+              "x": 824,
+              "y": 259,
               "locations": [
                 "DzS Britta's Meeting Room Block 1"
               ],
@@ -3207,7 +3245,7 @@
             {
               "x": 836,
               "y": 723,
-              "label": "DzS Southeast Track Room Blocks 3 and 8",
+              "label": "Northeast Blocks",
               "locations": [
                 "DzS Southeast Track Room Block 3",
                 "DzS Southeast Track Room Block 8"
@@ -3245,15 +3283,6 @@
               "locations": [
                 "DDzS Second Track Deco Pi'illo Block 1",
                 "DDzS Second Track Deco Pi'illo Block 2"
-              ],
-              "size": 14
-            },
-            {
-              "x": 851,
-              "y": 785,
-              "label": "DDzS Southeast Track Room Pi'illo",
-              "locations": [
-                "DDzS Southeast Track Room Pi'illo Block"
               ],
               "size": 14
             },
@@ -3402,9 +3431,9 @@
               "size": 14
             },
             {
-              "x": 246,
-              "y": 719,
-              "label": "DzS Western Track Room Blocks 1 and 3",
+              "x": 245,
+              "y": 718,
+              "label": "North Blocks",
               "locations": [
                 "DzS Western Track Room Block 1",
                 "DzS Western Track Room Block 3"
@@ -3494,7 +3523,7 @@
             {
               "x": 157,
               "y": 531,
-              "label": "DzS West End of Track Bean Spots 2 and 3",
+              "label": "Bean Spots Near Pi'illo",
               "locations": [
                 "DzS West End of Track Bean Spot 2",
                 "DzS West End of Track Bean Spot 3"
@@ -3530,7 +3559,7 @@
             {
               "x": 634,
               "y": 145,
-              "label": "DzS Badge Shop",
+              "label": "Badge Shop",
               "locations": [
                 "DzS Badge Shop Item 1",
                 "DzS Badge Shop Item 2",
@@ -3542,6 +3571,412 @@
                 "DzS Badge Shop Item 8"
               ],
               "size": 14
+            },
+            {
+              "x": 379,
+              "y": 168,
+              "locations": [
+                "DzS/DwS Entrance Bean Spot"
+              ],
+              "size": 14
+            },
+            {
+              "x": 380,
+              "y": 148,
+              "locations": [
+                "DzS Shell Hutch Item 1"
+              ],
+              "size": 14
+            },
+            {
+              "x": 380,
+              "y": 148,
+              "locations": [
+                "DzS Shell Hutch Item 2"
+              ],
+              "size": 14
+            },
+            {
+              "x": 380,
+              "y": 148,
+              "locations": [
+                "DzS Shell Hutch Item 3"
+              ],
+              "size": 14
+            },
+            {
+              "x": 380,
+              "y": 148,
+              "locations": [
+                "DzS Shell Hutch Item 4"
+              ],
+              "size": 14
+            },
+            {
+              "x": 380,
+              "y": 148,
+              "locations": [
+                "DzS Shell Hutch Item 5"
+              ],
+              "size": 14
+            },
+            {
+              "x": 380,
+              "y": 148,
+              "locations": [
+                "DzS Shell Hutch Item 6"
+              ],
+              "size": 14
+            },
+            {
+              "x": 380,
+              "y": 148,
+              "locations": [
+                "DzS Shell Hutch Item 7"
+              ],
+              "size": 14
+            },
+            {
+              "x": 380,
+              "y": 148,
+              "locations": [
+                "DzS Shell Hutch Item 8"
+              ],
+              "size": 14
+            },
+            {
+              "x": 555,
+              "y": 160,
+              "locations": [
+                "DzS Desert Entrance Block 1"
+              ],
+              "size": 14
+            },
+            {
+              "x": 502,
+              "y": 129,
+              "locations": [
+                "DzS Desert Entrance Block 3"
+              ],
+              "size": 14
+            },
+            {
+              "x": 523,
+              "y": 129,
+              "locations": [
+                "DzS Desert Entrance Block 2"
+              ],
+              "size": 14
+            },
+            {
+              "x": 630,
+              "y": 158,
+              "locations": [
+                "DzS Badge Room Block 3"
+              ],
+              "size": 14
+            },
+            {
+              "x": 627,
+              "y": 118,
+              "locations": [
+                "DzS Badge Room Block 1"
+              ],
+              "size": 14
+            },
+            {
+              "x": 690,
+              "y": 116,
+              "locations": [
+                "DzS Badge Room Block 2"
+              ],
+              "size": 14
+            },
+            {
+              "x": 685,
+              "y": 145,
+              "locations": [
+                "DzS Eastern Badge Room Block"
+              ],
+              "size": 14
+            },
+            {
+              "x": 693,
+              "y": 166,
+              "label": "Badge Room Pi'illo",
+              "locations": [
+                "DDzS Badge Room Pi'illo Block 1",
+                "DDzS Badge Room Pi'illo Block 2"
+              ],
+              "size": 14
+            },
+            {
+              "x": 637,
+              "y": 279,
+              "locations": [
+                "DzS Mini/Mole Mario Tutorial Room Block 1"
+              ],
+              "size": 14
+            },
+            {
+              "x": 624,
+              "y": 279,
+              "label": "First Dozite Pi'illo",
+              "locations": [
+                "DDzS First Dozite Entrance Block 1",
+                "DDzS First Dozite Entrance Block 2",
+                "DDzS First Dozite Learn Luigination Block"
+              ],
+              "size": 14
+            },
+            {
+              "x": 638,
+              "y": 255,
+              "locations": [
+                "DzS Mini/Mole Mario Tutorial Room Block 3"
+              ],
+              "size": 14
+            },
+            {
+              "x": 652,
+              "y": 252,
+              "locations": [
+                "DzS Mini/Mole Mario Tutorial Room Block 5"
+              ],
+              "size": 14
+            },
+            {
+              "x": 649,
+              "y": 584,
+              "label": "West Blocks",
+              "locations": [
+                "DzS Tracks Mini Mario Room Block 1",
+                "DzS Tracks Mini Mario Room Block 3",
+                "DzS Tracks Mini Mario Room Block 6"
+              ],
+              "size": 14
+            },
+            {
+              "x": 672,
+              "y": 601,
+              "label": "South Blocks",
+              "locations": [
+                "DzS Tracks Mini Mario Room Block 2",
+                "DzS Tracks Mini Mario Room Block 4",
+                "DzS Tracks Mini Mario Room Block 5"
+              ],
+              "size": 14
+            },
+            {
+              "x": 776,
+              "y": 591,
+              "locations": [
+                "DzS Track Area Entrance Block 3"
+              ],
+              "size": 14
+            },
+            {
+              "x": 849,
+              "y": 765,
+              "locations": [
+                "DzS Southeast Track Room Block 7"
+              ],
+              "size": 14
+            },
+            {
+              "x": 856,
+              "y": 744,
+              "locations": [
+                "DzS Southeast Track Room Block 2"
+              ],
+              "size": 14
+            },
+            {
+              "x": 850,
+              "y": 785,
+              "locations": [
+                "DDzS Southeast Track Room Pi'illo Block"
+              ],
+              "size": 14
+            },
+            {
+              "x": 949,
+              "y": 313,
+              "locations": [
+                "DDzS Final Track Deco Pi'illo Room 3 Block"
+              ],
+              "size": 14
+            },
+            {
+              "x": 782,
+              "y": 106,
+              "locations": [
+                "DzS Dreamstone Resting Spot Bean Spot"
+              ],
+              "size": 14
+            },
+            {
+              "x": 816,
+              "y": 97,
+              "locations": [
+                "DzS Dreamstone Resting Spot Block"
+              ],
+              "size": 14
+            },
+            {
+              "x": 795,
+              "y": 106,
+              "label": "Dreamstone",
+              "locations": [
+                "DDzS Britta Shop Item 1",
+                "DDzS Britta Shop Item 2",
+                "DDzS Britta Shop Item 3",
+                "DDzS Britta Shop Item 4",
+                "DDzS Britta Shop Item 5",
+                "DDzS Britta Shop Item 6",
+                "DDzS Britta Shop Item 7",
+                "DDzS Britta Shop Item 8",
+                "DDzS Dream Stone After Big Drill Room Block 1",
+                "DDzS Dream Stone After Big Drill Room Block 2",
+                "DDzS Dream Stone After Big Drill Room Block 3",
+                "DDzS Dream Stone After Big Drill Room Block 4",
+                "DDzS Dream Stone After Second Spirit Talk Block 1",
+                "DDzS Dream Stone After Second Spirit Talk Block 2",
+                "DDzS Dream Stone After Second Spirit Talk Block 3",
+                "DDzS Dream Stone Big Drill Room Block 1",
+                "DDzS Dream Stone Big Drill Room Block 2",
+                "DDzS Dream Stone Dream Last Attack Pieces Block 1",
+                "DDzS Dream Stone Dream Last Attack Pieces Block 2",
+                "DDzS Dream Stone Dream Last Attack Pieces Block 3",
+                "DDzS Dream Stone Dream Last Attack Pieces Block 4",
+                "DDzS Dream Stone First Drill Room Block",
+                "DDzS Dream Stone First Luiginary Room Block",
+                "DDzS Dream Stone Ground Pound Tutorial Room Block",
+                "DDzS Dream Stone Horizontal Drill Room Block 1",
+                "DDzS Dream Stone Horizontal Drill Room Block 2",
+                "DDzS Dream Stone Switch Puzzle Room 1 Block"
+              ],
+              "size": 14
+            },
+            {
+              "x": 916,
+              "y": 149,
+              "locations": [
+                "DzS East of Dreamstone Block 2"
+              ],
+              "size": 14
+            },
+            {
+              "x": 892,
+              "y": 136,
+              "locations": [
+                "DzS East of Dreamstone Block 1"
+              ],
+              "size": 14
+            },
+            {
+              "x": 1027,
+              "y": 145,
+              "label": "North Area",
+              "locations": [
+                "DzS Ultibed Cliff Bean Spot 2",
+                "DzS Ultibed Cliff Block 2"
+              ],
+              "size": 14
+            },
+            {
+              "x": 1017,
+              "y": 160,
+              "locations": [
+                "DzS Ultibed Cliff Bean Spot 1"
+              ],
+              "size": 14
+            },
+            {
+              "x": 1064,
+              "y": 174,
+              "locations": [
+                "DzS Ultibed Cliff Block 1"
+              ],
+              "size": 14
+            },
+            {
+              "x": 1165,
+              "y": 154,
+              "locations": [
+                "DzS Dozing Mattress Path to Underground Block 1"
+              ],
+              "size": 14
+            },
+            {
+              "x": 1184,
+              "y": 163,
+              "locations": [
+                "DzS Dozing Mattress Path to Underground Bean Spot"
+              ],
+              "size": 14
+            },
+            {
+              "x": 1220,
+              "y": 200,
+              "locations": [
+                "DzS Dozing Mattress Path to Underground Block 2"
+              ],
+              "size": 14
+            },
+            {
+              "x": 1285,
+              "y": 310,
+              "locations": [
+                "DzS Dozing Mattress Underground 1 Bean Spot"
+              ],
+              "size": 14
+            },
+            {
+              "x": 1326,
+              "y": 334,
+              "locations": [
+                "DzS Dozing Mattress Underground 1 Block 2"
+              ],
+              "size": 14
+            },
+            {
+              "x": 1275,
+              "y": 319,
+              "locations": [
+                "DzS Dozing Mattress Underground 1 Block 1"
+              ],
+              "size": 14
+            },
+            {
+              "x": 1312,
+              "y": 299,
+              "locations": [
+                "DzS Dozing Mattress Underground 1 Block 3"
+              ],
+              "size": 14
+            },
+            {
+              "x": 1395,
+              "y": 309,
+              "label": "West Alcove",
+              "locations": [
+                "DzS Dozing Mattress Underground 2 Block 1",
+                "DzS Dozing Mattress Underground 2 Block 2"
+              ],
+              "size": 14
+            },
+            {
+              "x": 1410,
+              "y": 308,
+              "label": "Dozing Mattress",
+              "locations": [
+                "DDzS Mattress Dream Bottom Room Block 1",
+                "DDzS Mattress Dream Bottom Room Block 2",
+                "DDzS Mattress Dream Bottom Room Block 3",
+                "DDzS Mattress Dream Top Room Block"
+              ],
+              "size": 14
             }
           ]
         },
@@ -3549,8 +3984,39 @@
           "name": "Dream World",
           "tabs": [
             {
-              "name": "First Track Deco Pi'illo",
+              "name": "First Dozite Pi'illo",
               "image": "images/5-2-1.png",
+              "location_size": 32,
+              "markers": [
+                {
+                  "x": 914,
+                  "y": 498,
+                  "locations": [
+                    "DDzS First Dozite Entrance Block 2"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 875,
+                  "y": 468,
+                  "locations": [
+                    "DDzS First Dozite Entrance Block 1"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 275,
+                  "y": 266,
+                  "locations": [
+                    "DDzS First Dozite Learn Luigination Block"
+                  ],
+                  "size": 14
+                }
+              ]
+            },
+            {
+              "name": "First Track Deco Pi'illo",
+              "image": "images/5-2-2.png",
               "location_size": 32,
               "markers": [
                 {
@@ -3573,7 +4039,7 @@
             },
             {
               "name": "Second Track Deco Pi'illo",
-              "image": "images/5-2-2.png",
+              "image": "images/5-2-3.png",
               "location_size": 32,
               "markers": [
                 {
@@ -3590,7 +4056,7 @@
             },
             {
               "name": "Southeast Track Room Pi'illo",
-              "image": "images/5-2-3.png",
+              "image": "images/5-2-4.png",
               "location_size": 32,
               "markers": [
                 {
@@ -3605,7 +4071,7 @@
             },
             {
               "name": "West Track Deco Pi'illo",
-              "image": "images/5-2-4.png",
+              "image": "images/5-2-5.png",
               "location_size": 32,
               "markers": [
                 {
@@ -3628,7 +4094,7 @@
             },
             {
               "name": "Eastern Track Room Pi'illo",
-              "image": "images/5-2-5.png",
+              "image": "images/5-2-6.png",
               "location_size": 32,
               "markers": [
                 {
@@ -3645,7 +4111,7 @@
             },
             {
               "name": "Final Track Deco Pi'illo",
-              "image": "images/5-2-6.png",
+              "image": "images/5-2-7.png",
               "location_size": 32,
               "markers": [
                 {
@@ -3653,6 +4119,237 @@
                   "y": 448,
                   "locations": [
                     "DDzS Final Track Deco Pi'illo Room 3 Block"
+                  ],
+                  "size": 14
+                }
+              ]
+            },
+            {
+              "name": "Dreamstone",
+              "image": "images/5-2-8.png",
+              "location_size": 32,
+              "markers": [
+                {
+                  "x": 575,
+                  "y": 318,
+                  "locations": [
+                    "DDzS Dream Stone First Drill Room Block"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 1027,
+                  "y": 270,
+                  "locations": [
+                    "DDzS Dream Stone After Big Drill Room Block 3"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 878,
+                  "y": 247,
+                  "locations": [
+                    "DDzS Dream Stone Big Drill Room Block 1"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 937,
+                  "y": 218,
+                  "locations": [
+                    "DDzS Dream Stone Big Drill Room Block 2"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 1019,
+                  "y": 233,
+                  "locations": [
+                    "DDzS Dream Stone After Big Drill Room Block 1"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 1136,
+                  "y": 252,
+                  "locations": [
+                    "DDzS Dream Stone After Big Drill Room Block 2"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 1151,
+                  "y": 252,
+                  "locations": [
+                    "DDzS Dream Stone After Big Drill Room Block 4"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 1223,
+                  "y": 262,
+                  "locations": [
+                    "DDzS Dream Stone First Luiginary Room Block"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 1652,
+                  "y": 232,
+                  "locations": [
+                    "DDzS Dream Stone Switch Puzzle Room 1 Block"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 685,
+                  "y": 444,
+                  "locations": [
+                    "DDzS Dream Stone After Second Spirit Talk Block 1"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 582,
+                  "y": 438,
+                  "locations": [
+                    "DDzS Dream Stone After Second Spirit Talk Block 3"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 583,
+                  "y": 477,
+                  "locations": [
+                    "DDzS Dream Stone After Second Spirit Talk Block 2"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 441,
+                  "y": 523,
+                  "locations": [
+                    "DDzS Dream Stone Horizontal Drill Room Block 2"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 407,
+                  "y": 483,
+                  "locations": [
+                    "DDzS Dream Stone Horizontal Drill Room Block 1"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 263,
+                  "y": 539,
+                  "locations": [
+                    "DDzS Dream Stone Ground Pound Tutorial Room Block"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 624,
+                  "y": 893,
+                  "locations": [
+                    "DDzS Dream Stone Dream Last Attack Pieces Block 1"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 606,
+                  "y": 893,
+                  "locations": [
+                    "DDzS Dream Stone Dream Last Attack Pieces Block 3"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 705,
+                  "y": 886,
+                  "locations": [
+                    "DDzS Dream Stone After Big Drill Room Block 2"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 752,
+                  "y": 899,
+                  "locations": [
+                    "DDzS Dream Stone Dream Last Attack Pieces Block 4"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 949,
+                  "y": 526,
+                  "label": "Shop",
+                  "locations": [
+                    "DDzS Britta Shop Item 1",
+                    "DDzS Britta Shop Item 2",
+                    "DDzS Britta Shop Item 3",
+                    "DDzS Britta Shop Item 4",
+                    "DDzS Britta Shop Item 5",
+                    "DDzS Britta Shop Item 6",
+                    "DDzS Britta Shop Item 7",
+                    "DDzS Britta Shop Item 8"
+                  ],
+                  "size": 14
+                }
+              ]
+            },
+            {
+              "name": "Badge Room Pi'illo",
+              "image": "images/5-2-9.png",
+              "location_size": 32,
+              "markers": [
+                {
+                  "x": 574,
+                  "y": 377,
+                  "locations": [
+                    "DDzS Badge Room Pi'illo Block 1"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 809,
+                  "y": 375,
+                  "locations": [
+                    "DDzS Badge Room Pi'illo Block 2"
+                  ],
+                  "size": 14
+                }
+              ]
+            },
+            {
+              "name": "Dozing Mattress",
+              "image": "images/5-2-10.png",
+              "location_size": 32,
+              "markers": [
+                {
+                  "x": 827,
+                  "y": 639,
+                  "label": "Right Wall Blocks",
+                  "locations": [
+                    "DDzS Mattress Dream Bottom Room Block 1",
+                    "DDzS Mattress Dream Bottom Room Block 3"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 736,
+                  "y": 627,
+                  "locations": [
+                    "DDzS Mattress Dream Bottom Room Block 2"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 716,
+                  "y": 327,
+                  "locations": [
+                    "DDzS Mattress Dream Top Room Block"
                   ],
                   "size": 14
                 }
@@ -3670,15 +4367,6 @@
           "image": "images/6-1.png",
           "location_size": 32,
           "markers": [
-            {
-              "x": 347,
-              "y": 323,
-              "label": "DWp After Puzzle Pi'illo",
-              "locations": [
-                "DWp After Puzzle Pi'illo Room 2 Block"
-              ],
-              "size": 14
-            },
             {
               "x": 981,
               "y": 138,
@@ -3718,6 +4406,478 @@
                 "Wp Entrance Bean Spot"
               ],
               "size": 14
+            },
+            {
+              "x": 1007,
+              "y": 99,
+              "locations": [
+                "MrP Path to Wakeport Block 1"
+              ],
+              "size": 14
+            },
+            {
+              "x": 1011,
+              "y": 136,
+              "locations": [
+                "MrP Path to Wakeport Block 2"
+              ],
+              "size": 14
+            },
+            {
+              "x": 942,
+              "y": 133,
+              "locations": [
+                "MrP Path to Wakeport Block 4"
+              ],
+              "size": 14
+            },
+            {
+              "x": 978,
+              "y": 114,
+              "locations": [
+                "MrP Path to Wakeport Block 3"
+              ],
+              "size": 14
+            },
+            {
+              "x": 620,
+              "y": 247,
+              "locations": [
+                "Wp Entrance Left Building Block"
+              ],
+              "size": 14
+            },
+            {
+              "x": 756,
+              "y": 396,
+              "locations": [
+                "Wp Entrance Block 2"
+              ],
+              "size": 14
+            },
+            {
+              "x": 775,
+              "y": 396,
+              "locations": [
+                "Wp Entrance Block 1"
+              ],
+              "size": 14
+            },
+            {
+              "x": 764,
+              "y": 252,
+              "locations": [
+                "Wp Entrance Right Building Block"
+              ],
+              "size": 14
+            },
+            {
+              "x": 698,
+              "y": 255,
+              "locations": [
+                "Wp Entrance Middle Building Block 2"
+              ],
+              "size": 14
+            },
+            {
+              "x": 686,
+              "y": 252,
+              "locations": [
+                "Wp Entrance Middle Building Block 1"
+              ],
+              "size": 14
+            },
+            {
+              "x": 408,
+              "y": 393,
+              "locations": [
+                "Wp Mole Mario Pi'illo Room Block 1"
+              ],
+              "size": 14
+            },
+            {
+              "x": 357,
+              "y": 405,
+              "locations": [
+                "Wp Mole Mario Pi'illo Room Block 3"
+              ],
+              "size": 14
+            },
+            {
+              "x": 467,
+              "y": 285,
+              "locations": [
+                "Wp Pi'illo Collector's House Block"
+              ],
+              "size": 14
+            },
+            {
+              "x": 302,
+              "y": 397,
+              "locations": [
+                "Wp Mole Mario Pi'illo Room Block 2"
+              ],
+              "size": 14
+            },
+            {
+              "x": 354,
+              "y": 340,
+              "locations": [
+                "DWp After Puzzle Pi'illo Room 2 Block"
+              ],
+              "size": 14
+            },
+            {
+              "x": 339,
+              "y": 340,
+              "label": "Bean Spots After Puzzle",
+              "locations": [
+                "Wp Mole Mario Pi'illo Room Bean Spot 1",
+                "Wp Mole Mario Pi'illo Room Bean Spot 2"
+              ],
+              "size": 14
+            },
+            {
+              "x": 346,
+              "y": 183,
+              "locations": [
+                "Wp Wiggler's Resting Spot Bean Spot 3"
+              ],
+              "size": 14
+            },
+            {
+              "x": 337,
+              "y": 161,
+              "locations": [
+                "Wp Wiggler's Resting Spot Bean Spot 1"
+              ],
+              "size": 14
+            },
+            {
+              "x": 351,
+              "y": 161,
+              "locations": [
+                "Wp Wiggler's Resting Spot Bean Spot 2"
+              ],
+              "size": 14
+            },
+            {
+              "x": 384,
+              "y": 168,
+              "locations": [
+                "Wp Wiggler's Resting Spot Block 1"
+              ],
+              "size": 14
+            },
+            {
+              "x": 397,
+              "y": 168,
+              "locations": [
+                "Wp Wiggler's Resting Spot Block 2"
+              ],
+              "size": 14
+            },
+            {
+              "x": 367,
+              "y": 221,
+              "locations": [
+                "DWp Right of Wiggler Pi'illo Room 2 Block"
+              ],
+              "size": 14
+            },
+            {
+              "x": 393,
+              "y": 394,
+              "locations": [
+                "Wp Mole Mario Pi'illo Room Roof Bean Spot"
+              ],
+              "size": 14
+            },
+            {
+              "x": 321,
+              "y": 600,
+              "label": "Big Massif",
+              "locations": [
+                "DWp Massif After Clock Tutorial Block 1",
+                "DWp Massif After Clock Tutorial Block 2",
+                "DWp Massif After Clock Tutorial Block 3",
+                "DWp Massif Clock Tutorial Block",
+                "DWp Massif Dream Shop Item 1",
+                "DWp Massif Dream Shop Item 2",
+                "DWp Massif Dream Shop Item 3",
+                "DWp Massif Dream Shop Item 4",
+                "DWp Massif Dream Shop Item 5",
+                "DWp Massif Dream Shop Item 6",
+                "DWp Massif Dream Shop Item 7",
+                "DWp Massif Dream Shop Item 8",
+                "DWp Massif Heavy Zest Room 1 Block 1",
+                "DWp Massif Heavy Zest Room 1 Block 2",
+                "DWp Massif Heavy Zest Room 1 Block 3",
+                "DWp Massif Heavy Zest Room 2 Block 1",
+                "DWp Massif Heavy Zest Room 2 Block 2",
+                "DWp Massif Heavy Zest Room 3 Block 1",
+                "DWp Massif Heavy Zest Room 3 Block 2",
+                "DWp Massif Heavy Zest Room 3 Block 3",
+                "DWp Massif Heavy Zest Room 3 Block 4",
+                "DWp Massif Heavy Zest Room 3 Block 5",
+                "DWp Massif Lobby Block 1",
+                "DWp Massif Lobby Block 2",
+                "DWp Massif Sorrow Fist Room 3 Block 1",
+                "DWp Massif Sorrow Fist Room 3 Block 2",
+                "DWp Massif Thunder Sass Room 1 Block 1",
+                "DWp Massif Thunder Sass Room 1 Block 2",
+                "DWp Massif Thunder Sass Room 3 Block 1",
+                "DWp Massif Thunder Sass Room 3 Block 2",
+                "DWp Massif Top Left of Main Room 2 Block 1",
+                "DWp Massif Top Left of Main Room 2 Block 2",
+                "DWp Massif Topright of Main Block"
+              ],
+              "size": 14
+            },
+            {
+              "x": 386,
+              "y": 592,
+              "locations": [
+                "Wp Massif Resting Spot Block"
+              ],
+              "size": 14
+            },
+            {
+              "x": 647,
+              "y": 581,
+              "locations": [
+                "Wp Shopping District Block 1"
+              ],
+              "size": 14
+            },
+            {
+              "x": 670,
+              "y": 581,
+              "locations": [
+                "Wp Shopping District Block 3"
+              ],
+              "size": 14
+            },
+            {
+              "x": 696,
+              "y": 657,
+              "locations": [
+                "Wp Shopping District Block 2"
+              ],
+              "size": 14
+            },
+            {
+              "x": 728,
+              "y": 611,
+              "locations": [
+                "Wp Shopping District Bean Spot 2"
+              ],
+              "size": 14
+            },
+            {
+              "x": 447,
+              "y": 483,
+              "locations": [
+                "Wp Kylie Koopa's Photo Booth Block"
+              ],
+              "size": 14
+            },
+            {
+              "x": 630,
+              "y": 657,
+              "locations": [
+                "Wp Shopping District Block 5"
+              ],
+              "size": 14
+            },
+            {
+              "x": 657,
+              "y": 655,
+              "locations": [
+                "Wp Shopping District Block 6"
+              ],
+              "size": 14
+            },
+            {
+              "x": 671,
+              "y": 594,
+              "locations": [
+                "Wp Shopping District Bean Spot 1"
+              ],
+              "size": 14
+            },
+            {
+              "x": 614,
+              "y": 606,
+              "locations": [
+                "Wp Shopping District Block 4"
+              ],
+              "size": 14
+            },
+            {
+              "x": 504,
+              "y": 454,
+              "label": "Item Shop",
+              "locations": [
+                "Wp Item Shop Item 1",
+                "Wp Item Shop Item 2",
+                "Wp Item Shop Item 3",
+                "Wp Item Shop Item 4",
+                "Wp Item Shop Item 5",
+                "Wp Item Shop Item 6",
+                "Wp Item Shop Item 7",
+                "Wp Item Shop Item 8"
+              ],
+              "size": 14
+            },
+            {
+              "x": 628,
+              "y": 453,
+              "label": "Gear Shop",
+              "locations": [
+                "Wp Gear Shop Item 1",
+                "Wp Gear Shop Item 2",
+                "Wp Gear Shop Item 3",
+                "Wp Gear Shop Item 4",
+                "Wp Gear Shop Item 5",
+                "Wp Gear Shop Item 6",
+                "Wp Gear Shop Item 7",
+                "Wp Gear Shop Item 8"
+              ],
+              "size": 14
+            },
+            {
+              "x": 564,
+              "y": 454,
+              "label": "Badge Shop",
+              "locations": [
+                "Wp Badge Shop Item 1",
+                "Wp Badge Shop Item 2",
+                "Wp Badge Shop Item 3",
+                "Wp Badge Shop Item 4",
+                "Wp Badge Shop Item 5",
+                "Wp Badge Shop Item 6",
+                "Wp Badge Shop Item 7",
+                "Wp Badge Shop Item 8"
+              ],
+              "size": 14
+            },
+            {
+              "x": 639,
+              "y": 784,
+              "label": "Northeast Blocks",
+              "locations": [
+                "Wp Southern Panel Room Block 5",
+                "Wp Southern Panel Room Block 6"
+              ],
+              "size": 14
+            },
+            {
+              "x": 685,
+              "y": 810,
+              "locations": [
+                "Wp Southern Panel Room Block 3"
+              ],
+              "size": 14
+            },
+            {
+              "x": 637,
+              "y": 852,
+              "locations": [
+                "Wp Southern Panel Room Block 1"
+              ],
+              "size": 14
+            },
+            {
+              "x": 622,
+              "y": 863,
+              "locations": [
+                "Wp Southern Panel Room Block 2"
+              ],
+              "size": 14
+            },
+            {
+              "x": 570,
+              "y": 875,
+              "label": "South Room Pi'illo",
+              "locations": [
+                "DWp South Room Pi'illo Block 1",
+                "DWp South Room Pi'illo Block 2"
+              ],
+              "size": 14
+            },
+            {
+              "x": 521,
+              "y": 806,
+              "locations": [
+                "Wp Southern Panel Room Block 4"
+              ],
+              "size": 14
+            },
+            {
+              "x": 546,
+              "y": 798,
+              "locations": [
+                "Wp Southern Panel Room Block 7"
+              ],
+              "size": 14
+            },
+            {
+              "x": 544,
+              "y": 324,
+              "locations": [
+                "Wp Pi'illo Collector's Basement Block 3"
+              ],
+              "size": 14
+            },
+            {
+              "x": 545,
+              "y": 336,
+              "label": "Lower Blocks",
+              "locations": [
+                "Wp Pi'illo Collector's Basement Block 2",
+                "Wp Pi'illo Collector's Basement Block 4"
+              ],
+              "size": 14
+            },
+            {
+              "x": 502,
+              "y": 358,
+              "locations": [
+                "Wp Pi'illo Collector's Basement Block 1"
+              ],
+              "size": 14
+            },
+            {
+              "x": 532,
+              "y": 352,
+              "label": "Bedsmith",
+              "locations": [
+                "DWp Bedsmith Entrance Block",
+                "DWp Bedsmith Room 2 Block",
+                "DWp Bedsmith Room 3 Block 1",
+                "DWp Bedsmith Room 3 Block 2",
+                "DWp Bedsmith Room 3 Block 3",
+                "DWp Bedsmith Room 4 Block 1",
+                "DWp Bedsmith Room 4 Block 2",
+                "DWp Bedsmith Room 4 Detour Block 1",
+                "DWp Bedsmith Room 4 Detour Block 2",
+                "DWp Bedsmith Room 5 Block",
+                "DWp Bedsmith Room 6 Block 1",
+                "DWp Bedsmith Room 6 Block 2",
+                "DWp Bedsmith Room 6 Block 3",
+                "DWp Bedsmith Stack Bomb Detour Block 1",
+                "DWp Bedsmith Stack Bomb Detour Block 2",
+                "DWp Bedsmith Stack Bomb Detour Block 3",
+                "DWp Bedsmith Umbrella Puzzle Basement Block 1",
+                "DWp Bedsmith Umbrella Puzzle Basement Block 2",
+                "DWp Bedsmith Umbrella Puzzle Basement Block 3",
+                "DWp Bedsmith Umbrella Puzzle Basement Block 4",
+                "DWp Bedsmith Upper Umbrella Puzzle Block 1",
+                "DWp Bedsmith Upper Umbrella Puzzle Block 2",
+                "DWp Bedsmith Upper Umbrella Puzzle Block 3"
+              ],
+              "size": 14
             }
           ]
         },
@@ -3728,7 +4888,443 @@
               "name": "After Puzzle Pi'illo",
               "image": "images/6-2-1.png",
               "location_size": 32,
-              "markers": []
+              "markers": [
+                {
+                  "x": 262,
+                  "y": 285,
+                  "locations": [
+                    "DWp After Puzzle Pi'illo Room 2 Block"
+                  ],
+                  "size": 14
+                }
+              ]
+            },
+            {
+              "name": "Big Massif",
+              "image": "images/6-2-2.png",
+              "location_size": 32,
+              "markers": [
+                {
+                  "x": 1303,
+                  "y": 435,
+                  "label": "Behind Tourist Center",
+                  "locations": [
+                    "DWp Massif Lobby Block 1",
+                    "DWp Massif Lobby Block 2"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 1013,
+                  "y": 353,
+                  "label": "Shop",
+                  "locations": [
+                    "DWp Massif Dream Shop Item 1",
+                    "DWp Massif Dream Shop Item 2",
+                    "DWp Massif Dream Shop Item 3",
+                    "DWp Massif Dream Shop Item 4",
+                    "DWp Massif Dream Shop Item 5",
+                    "DWp Massif Dream Shop Item 6",
+                    "DWp Massif Dream Shop Item 7",
+                    "DWp Massif Dream Shop Item 8"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 1262,
+                  "y": 314,
+                  "locations": [
+                    "DWp Massif Topright of Main Block"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 1340,
+                  "y": 288,
+                  "locations": [
+                    "DWp Massif Clock Tutorial Block"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 1153,
+                  "y": 222,
+                  "locations": [
+                    "DWp Massif After Clock Tutorial Block 1"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 1164,
+                  "y": 226,
+                  "locations": [
+                    "DWp Massif After Clock Tutorial Block 2"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 1225,
+                  "y": 198,
+                  "locations": [
+                    "DWp Massif After Clock Tutorial Block 3"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 631,
+                  "y": 235,
+                  "locations": [
+                    "DWp Massif Top Left of Main Room 2 Block 1"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 618,
+                  "y": 168,
+                  "locations": [
+                    "DWp Massif Top Left of Main Room 2 Block 2"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 1762,
+                  "y": 572,
+                  "locations": [
+                    "DWp Massif Heavy Zest Room 1 Block 3"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 1752,
+                  "y": 419,
+                  "label": "Halfway Point Blocks",
+                  "locations": [
+                    "DWp Massif Heavy Zest Room 1 Block 1",
+                    "DWp Massif Heavy Zest Room 1 Block 2"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 1597,
+                  "y": 578,
+                  "locations": [
+                    "DWp Massif Heavy Zest Room 2 Block 1"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 1659,
+                  "y": 539,
+                  "locations": [
+                    "DWp Massif Heavy Zest Room 2 Block 2"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 1520,
+                  "y": 575,
+                  "locations": [
+                    "DWp Massif Heavy Zest Room 3 Block 1"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 1364,
+                  "y": 557,
+                  "locations": [
+                    "DWp Massif Heavy Zest Room 3 Block 5"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 1349,
+                  "y": 561,
+                  "locations": [
+                    "DWp Massif Heavy Zest Room 3 Block 4"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 1334,
+                  "y": 557,
+                  "locations": [
+                    "DWp Massif Heavy Zest Room 3 Block 3"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 1319,
+                  "y": 557,
+                  "locations": [
+                    "DWp Massif Heavy Zest Room 3 Block 2"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 1742,
+                  "y": 707,
+                  "locations": [
+                    "DWp Massif Thunder Sass Room 1 Block 1"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 1760,
+                  "y": 739,
+                  "locations": [
+                    "DWp Massif Thunder Sass Room 1 Block 2"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 1293,
+                  "y": 738,
+                  "locations": [
+                    "DWp Massif Thunder Sass Room 3 Block 2"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 1179,
+                  "y": 725,
+                  "locations": [
+                    "DWp Massif Thunder Sass Room 3 Block 1"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 686,
+                  "y": 585,
+                  "locations": [
+                    "DWp Massif Sorrow Fist Room 3 Block 2"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 641,
+                  "y": 585,
+                  "locations": [
+                    "DWp Massif Sorrow Fist Room 3 Block 1"
+                  ],
+                  "size": 14
+                }
+              ]
+            },
+            {
+              "name": "South Room Pi'illo",
+              "image": "images/6-2-3.png",
+              "location_size": 32,
+              "markers": [
+                {
+                  "x": 660,
+                  "y": 464,
+                  "locations": [
+                    "DWp South Room Pi'illo Block 2"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 603,
+                  "y": 396,
+                  "locations": [
+                    "DWp South Room Pi'illo Block 1"
+                  ],
+                  "size": 14
+                }
+              ]
+            },
+            {
+              "name": "Right of Wiggler Pi'illo",
+              "image": "images/6-2-4.png",
+              "location_size": 32,
+              "markers": [
+                {
+                  "x": 810,
+                  "y": 316,
+                  "locations": [
+                    "DWp Right of Wiggler Pi'illo Room 2 Block"
+                  ],
+                  "size": 14
+                }
+              ]
+            },
+            {
+              "name": "Bedsmith",
+              "image": "images/6-2-5.png",
+              "location_size": 32,
+              "markers": [
+                {
+                  "x": 803,
+                  "y": 553,
+                  "locations": [
+                    "DWp Bedsmith Entrance Block"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 639,
+                  "y": 519,
+                  "locations": [
+                    "DWp Bedsmith Room 2 Block"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 444,
+                  "y": 527,
+                  "locations": [
+                    "DWp Bedsmith Room 3 Block 2"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 322,
+                  "y": 492,
+                  "locations": [
+                    "DWp Bedsmith Room 3 Block 1"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 183,
+                  "y": 461,
+                  "locations": [
+                    "DWp Bedsmith Room 3 Block 3"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 454,
+                  "y": 383,
+                  "locations": [
+                    "DWp Bedsmith Room 4 Detour Block 2"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 525,
+                  "y": 367,
+                  "locations": [
+                    "DWp Bedsmith Room 4 Detour Block 1"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 649,
+                  "y": 372,
+                  "locations": [
+                    "DWp Bedsmith Room 4 Block 1"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 811,
+                  "y": 438,
+                  "locations": [
+                    "DWp Bedsmith Room 4 Block 2"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 986,
+                  "y": 363,
+                  "locations": [
+                    "DWp Bedsmith Room 5 Block"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 1257,
+                  "y": 346,
+                  "locations": [
+                    "DWp Bedsmith Room 6 Block 2"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 1127,
+                  "y": 328,
+                  "locations": [
+                    "DWp Bedsmith Room 6 Block 3"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 1170,
+                  "y": 304,
+                  "locations": [
+                    "DWp Bedsmith Room 6 Block 1"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 1324,
+                  "y": 438,
+                  "locations": [
+                    "DWp Bedsmith Stack Bomb Detour Block 2"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 1309,
+                  "y": 438,
+                  "locations": [
+                    "DWp Bedsmith Stack Bomb Detour Block 1"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 1290,
+                  "y": 446,
+                  "locations": [
+                    "DWp Bedsmith Stack Bomb Detour Block 3"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 1252,
+                  "y": 619,
+                  "label": "Blocks Under Platform",
+                  "locations": [
+                    "DWp Bedsmith Upper Umbrella Puzzle Block 1",
+                    "DWp Bedsmith Upper Umbrella Puzzle Block 2",
+                    "DWp Bedsmith Upper Umbrella Puzzle Block 3"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 1178,
+                  "y": 737,
+                  "locations": [
+                    "DWp Bedsmith Umbrella Puzzle Basement Block 2"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 1193,
+                  "y": 737,
+                  "locations": [
+                    "DWp Bedsmith Umbrella Puzzle Basement Block 3"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 1239,
+                  "y": 733,
+                  "locations": [
+                    "DWp Bedsmith Umbrella Puzzle Basement Block 4"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 1319,
+                  "y": 743,
+                  "locations": [
+                    "DWp Bedsmith Umbrella Puzzle Basement Block 1"
+                  ],
+                  "size": 14
+                }
+              ]
             }
           ]
         }
@@ -3753,7 +5349,7 @@
             {
               "x": 820,
               "y": 806,
-              "label": "MtP Second Weird Lift Thingy Bean Spots",
+              "label": "Southwest Bean Spots",
               "locations": [
                 "MtP Second Weird Lift Thingy Bean Spot 1",
                 "MtP Second Weird Lift Thingy Bean Spot 2"
@@ -3779,7 +5375,7 @@
             {
               "x": 723,
               "y": 863,
-              "label": "MtP Weird Lift Thingy Bean Spots",
+              "label": "Northeast Bean Spots",
               "locations": [
                 "MtP Weird Lift Thingy Bean Spot 1",
                 "MtP Weird Lift Thingy Bean Spot 2"
@@ -3840,7 +5436,7 @@
             {
               "x": 93,
               "y": 359,
-              "label": "MtP Ball Hop Cave",
+              "label": "Ball Hop Cave",
               "locations": [
                 "MtP Ball Hop Cave Bean Spot",
                 "MtP Ball Hop Cave Block 1",
@@ -3859,7 +5455,7 @@
             {
               "x": 407,
               "y": 884,
-              "label": "DMtP Base Right Mega Pi'illo",
+              "label": "Base Right Mega Pi'illo",
               "locations": [
                 "DMtP Base Right Mega Pi'illo Entrance Block 1",
                 "DMtP Base Right Mega Pi'illo Entrance Block 2",
@@ -3870,7 +5466,7 @@
             {
               "x": 369,
               "y": 884,
-              "label": "DMtP Base Left Mega Pi'illo",
+              "label": "Base Left Mega Pi'illo",
               "locations": [
                 "DMtP Base Left Mega Pi'illo Block 1",
                 "DMtP Base Left Mega Pi'illo Block 2",
@@ -3899,7 +5495,7 @@
             {
               "x": 561,
               "y": 682,
-              "label": "MtP Ball Hop Tutorial Bean Spots",
+              "label": "North Bean Spots",
               "locations": [
                 "MtP Ball Hop Tutorial Bean Spot 1",
                 "MtP Ball Hop Tutorial Bean Spot 2"
@@ -4029,7 +5625,7 @@
             {
               "x": 728,
               "y": 402,
-              "label": "DMtP Pajamaja Rock Frame",
+              "label": "Pajamaja Rock Frame",
               "locations": [
                 "DMtP Pajamaja Rock Frame Room 2 Block",
                 "DMtP Pajamaja Rock Frame Timed Switch Room Block"
@@ -4177,7 +5773,7 @@
             {
               "x": 979,
               "y": 879,
-              "label": "MtP Southeast Deviation Blocks Before Ledge",
+              "label": "Southeast Deviation Blocks Before Ledge",
               "locations": [
                 "MtP Southeast Deviation Block 1",
                 "MtP Southeast Deviation Block 3",
@@ -4197,7 +5793,7 @@
             {
               "x": 1006,
               "y": 879,
-              "label": "DMtP Multi-Access Pi'illo",
+              "label": "Multi-Access Pi'illo",
               "locations": [
                 "DMtP Multi-Access Pi'illo Block 1",
                 "DMtP Multi-Access Pi'illo Block 2",
@@ -4208,7 +5804,7 @@
             {
               "x": 887,
               "y": 875,
-              "label": "DMtP Right Branching Path Pi'illo",
+              "label": "Right Branching Path Pi'illo",
               "locations": [
                 "DMtP Right Branching Path Pi'illo Block 1",
                 "DMtP Right Branching Path Pi'illo Block 2"
@@ -4234,7 +5830,7 @@
             {
               "x": 871,
               "y": 307,
-              "label": "MtP Right Massif Ice Room Bean Spots",
+              "label": "Right Massif Ice Room Bean Spots",
               "locations": [
                 "MtP Right Massif Ice Room Bean Spot 1",
                 "MtP Right Massif Ice Room Bean Spot 2"
@@ -4308,7 +5904,7 @@
             {
               "x": 233,
               "y": 325,
-              "label": "MtP Left Massif Ice Room Bean Spots",
+              "label": "Left Massif Ice Room Bean Spots",
               "locations": [
                 "MtP Left Massif Ice Room Bean Spot 1",
                 "MtP Left Massif Ice Room Bean Spot 2"
@@ -4334,7 +5930,7 @@
             {
               "x": 472,
               "y": 293,
-              "label": "DMtP Peak Left Mega Pi'illo",
+              "label": "Peak Left Mega Pi'illo",
               "locations": [
                 "DMtP Peak Left Mega Pi'illo Room 2 Block",
                 "DMtP Peak Left Mega Pi'illo Room 3 Block"
@@ -4344,7 +5940,7 @@
             {
               "x": 488,
               "y": 293,
-              "label": "DMtP Peak Right Mega Pi'illo",
+              "label": "Peak Right Mega Pi'illo",
               "locations": [
                 "DMtP Peak Right Mega Pi'illo Entrance Block 1",
                 "DMtP Peak Right Mega Pi'illo Entrance Block 2"
@@ -4362,7 +5958,7 @@
             {
               "x": 364,
               "y": 92,
-              "label": "MtP Frozen Dream World Spot Bean Spots",
+              "label": "Frozen Dream World Spot Bean Spots",
               "locations": [
                 "MtP Frozen Dream World Spot Bean Spot 1",
                 "MtP Frozen Dream World Spot Bean Spot 2"
@@ -4372,7 +5968,7 @@
             {
               "x": 379,
               "y": 105,
-              "label": "DMtP Summit Dreampoint",
+              "label": "Summit Dreampoint",
               "locations": [
                 "DMtP Summit After Fountain 1 Block 1",
                 "DMtP Summit After Fountain 1 Block 2",
@@ -4434,7 +6030,7 @@
             {
               "x": 820,
               "y": 895,
-              "label": "MtP 2 Pi'illos in Rocks Blocks",
+              "label": "2 Pi'illos in Rocks Blocks",
               "locations": [
                 "MtP 2 Pi'illos in Rocks Block 1",
                 "MtP 2 Pi'illos in Rocks Block 2"
@@ -4444,7 +6040,7 @@
             {
               "x": 414,
               "y": 1011,
-              "label": "MtP Shell Hutch",
+              "label": "Shop",
               "locations": [
                 "MtP Shell Hutch Item 1",
                 "MtP Shell Hutch Item 2",
