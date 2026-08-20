@@ -797,8 +797,8 @@
           "size": 32
         },
         {
-          "x": 1176,
-          "y": 614,
+          "x": 1178,
+          "y": 619,
           "label": "Dreamy Mushrise Park",
           "locations": [
             "DMrP Brickle Shop Item 1",
@@ -4900,8 +4900,51 @@
               ]
             },
             {
-              "name": "Big Massif",
+              "name": "South Room Pi'illo",
               "image": "images/6-2-2.png",
+              "location_size": 32,
+              "markers": [
+                {
+                  "x": 660,
+                  "y": 464,
+                  "locations": [
+                    "DWp South Room Pi'illo Block 2"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 603,
+                  "y": 396,
+                  "locations": [
+                    "DWp South Room Pi'illo Block 1"
+                  ],
+                  "size": 14
+                }
+              ]
+            },
+            {
+              "name": "Right of Wiggler Pi'illo",
+              "image": "images/6-2-3.png",
+              "location_size": 32,
+              "markers": [
+                {
+                  "x": 810,
+                  "y": 316,
+                  "locations": [
+                    "DWp Right of Wiggler Pi'illo Room 2 Block"
+                  ],
+                  "size": 14
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Dreampoints",
+          "tabs": [
+            {
+              "name": "Big Massif",
+              "image": "images/6-3-1.png",
               "location_size": 32,
               "markers": [
                 {
@@ -5111,46 +5154,8 @@
               ]
             },
             {
-              "name": "South Room Pi'illo",
-              "image": "images/6-2-3.png",
-              "location_size": 32,
-              "markers": [
-                {
-                  "x": 660,
-                  "y": 464,
-                  "locations": [
-                    "DWp South Room Pi'illo Block 2"
-                  ],
-                  "size": 14
-                },
-                {
-                  "x": 603,
-                  "y": 396,
-                  "locations": [
-                    "DWp South Room Pi'illo Block 1"
-                  ],
-                  "size": 14
-                }
-              ]
-            },
-            {
-              "name": "Right of Wiggler Pi'illo",
-              "image": "images/6-2-4.png",
-              "location_size": 32,
-              "markers": [
-                {
-                  "x": 810,
-                  "y": 316,
-                  "locations": [
-                    "DWp Right of Wiggler Pi'illo Room 2 Block"
-                  ],
-                  "size": 14
-                }
-              ]
-            },
-            {
               "name": "Bedsmith",
-              "image": "images/6-2-5.png",
+              "image": "images/6-3-2.png",
               "location_size": 32,
               "markers": [
                 {
@@ -6097,7 +6102,7 @@
                 {
                   "x": 746,
                   "y": 302,
-                  "label": "DMtP Multi-Access Pi'illo Blocks 2 and 3",
+                  "label": "Lower Blocks",
                   "locations": [
                     "DMtP Multi-Access Pi'illo Block 2",
                     "DMtP Multi-Access Pi'illo Block 3"
@@ -6169,7 +6174,7 @@
                 {
                   "x": 643,
                   "y": 303,
-                  "label": "DMtP Base Left Mega Pi'illo Blocks 1 and 2",
+                  "label": "Upper Blocks",
                   "locations": [
                     "DMtP Base Left Mega Pi'illo Block 1",
                     "DMtP Base Left Mega Pi'illo Block 2"
@@ -6300,7 +6305,7 @@
                 {
                   "x": 646,
                   "y": 929,
-                  "label": "DMtP Summit Room 4 Blocks 3 and 4",
+                  "label": "Upper Right Blocks",
                   "locations": [
                     "DMtP Summit Room 4 Block 3",
                     "DMtP Summit Room 4 Block 4"
@@ -6310,7 +6315,7 @@
                 {
                   "x": 660,
                   "y": 954,
-                  "label": "DMtP Summit Room 4 Blocks 5-7",
+                  "label": "Lower Right Blocks",
                   "locations": [
                     "DMtP Summit Room 4 Block 5",
                     "DMtP Summit Room 4 Block 6",
@@ -6385,7 +6390,7 @@
                 {
                   "x": 967,
                   "y": 843,
-                  "label": "DMtP Summit Room 6 Blocks 1 and 2",
+                  "label": "Upper Left Blocks",
                   "locations": [
                     "DMtP Summit Room 6 Block 1",
                     "DMtP Summit Room 6 Block 2"
@@ -6443,7 +6448,7 @@
                 {
                   "x": 1601,
                   "y": 816,
-                  "label": "DMtP Summit Room 8 Detour Blocks",
+                  "label": "Summit Room 8 Detour Blocks",
                   "locations": [
                     "DMtP Summit Room 8 Detour Block 1",
                     "DMtP Summit Room 8 Detour Block 2"
@@ -6461,7 +6466,7 @@
                 {
                   "x": 1403,
                   "y": 738,
-                  "label": "DMtP Summit Room 9 Detour Blocks 1 and 2",
+                  "label": "Lower Blocks",
                   "locations": [
                     "DMtP Summit Room 9 Detour Block 1",
                     "DMtP Summit Room 9 Detour Block 2"
@@ -6567,7 +6572,7 @@
                 {
                   "x": 1343,
                   "y": 618,
-                  "label": "DMtP Summit After Fountain 3 Blocks 3-5",
+                  "label": "Lower Right Blocks",
                   "locations": [
                     "DMtP Summit After Fountain 3 Block 3",
                     "DMtP Summit After Fountain 3 Block 4",
@@ -6586,7 +6591,7 @@
                 {
                   "x": 1451,
                   "y": 596,
-                  "label": "DMtP Summit After Fountain 3 Detour Blocks 1 and 2",
+                  "label": "Upper Blocks",
                   "locations": [
                     "DMtP Summit After Fountain 3 Detour Block 1",
                     "DMtP Summit After Fountain 3 Detour Block 2"
@@ -6656,11 +6661,899 @@
       ]
     },
     {
-      "name": "Somnom Woods (SmW)",
+      "name": "Driftwood Shore (DwS)",
       "tabs": [
         {
           "name": "Overworld",
           "image": "images/8-1.png",
+          "location_size": 32,
+          "markers": [
+            {
+              "x": 1196,
+              "y": 203,
+              "locations": [
+                "DwS Beach Entrance Block 1"
+              ],
+              "size": 14
+            },
+            {
+              "x": 1209,
+              "y": 185,
+              "locations": [
+                "DwS Beach Entrance Block 4"
+              ],
+              "size": 14
+            },
+            {
+              "x": 1230,
+              "y": 185,
+              "locations": [
+                "DwS Beach Entrance Block 2"
+              ],
+              "size": 14
+            },
+            {
+              "x": 1251,
+              "y": 189,
+              "locations": [
+                "DwS Beach Entrance Block 3"
+              ],
+              "size": 14
+            },
+            {
+              "x": 1153,
+              "y": 420,
+              "locations": [
+                "DwS Guard Room Bean Spot"
+              ],
+              "size": 14
+            },
+            {
+              "x": 1205,
+              "y": 420,
+              "locations": [
+                "DwS Guard Room Block 3"
+              ],
+              "size": 14
+            },
+            {
+              "x": 1261,
+              "y": 430,
+              "locations": [
+                "DwS Guard Room Block 2"
+              ],
+              "size": 14
+            },
+            {
+              "x": 1149,
+              "y": 471,
+              "locations": [
+                "DwS Guard Room Block 1"
+              ],
+              "size": 14
+            },
+            {
+              "x": 1461,
+              "y": 477,
+              "locations": [
+                "DwS Outside Rose Broquet Bean Spot"
+              ],
+              "size": 14
+            },
+            {
+              "x": 1521,
+              "y": 499,
+              "locations": [
+                "DwS Outside Rose Broquet Block 1"
+              ],
+              "size": 14
+            },
+            {
+              "x": 1422,
+              "y": 522,
+              "locations": [
+                "DwS Outside Rose Broquet Block 2"
+              ],
+              "size": 14
+            },
+            {
+              "x": 1474,
+              "y": 526,
+              "locations": [
+                "DwS Outside Rose Broquet Block 3"
+              ],
+              "size": 14
+            },
+            {
+              "x": 1378,
+              "y": 568,
+              "locations": [
+                "DwS Outside Rose Broquet Block 4"
+              ],
+              "size": 14
+            },
+            {
+              "x": 1543,
+              "y": 493,
+              "label": "Ball Hop Pi'illo",
+              "locations": [
+                "DDwS Ball Hop Dream World Block 1",
+                "DDwS Ball Hop Dream World Block 2"
+              ],
+              "size": 14
+            },
+            {
+              "x": 1518,
+              "y": 338,
+              "label": "Silver Shop",
+              "locations": [
+                "DwS Rose Broquet Silver Shop Item 1",
+                "DwS Rose Broquet Silver Shop Item 2",
+                "DwS Rose Broquet Silver Shop Item 3",
+                "DwS Rose Broquet Silver Shop Item 4",
+                "DwS Rose Broquet Silver Shop Item 5",
+                "DwS Rose Broquet Silver Shop Item 6",
+                "DwS Rose Broquet Silver Shop Item 7",
+                "DwS Rose Broquet Silver Shop Item 8"
+              ],
+              "size": 14
+            },
+            {
+              "x": 1458,
+              "y": 339,
+              "label": "Gold Shop",
+              "locations": [
+                "DwS Rose Broquet Gold Shop Item 1",
+                "DwS Rose Broquet Gold Shop Item 2",
+                "DwS Rose Broquet Gold Shop Item 3",
+                "DwS Rose Broquet Gold Shop Item 4",
+                "DwS Rose Broquet Gold Shop Item 5",
+                "DwS Rose Broquet Gold Shop Item 6",
+                "DwS Rose Broquet Gold Shop Item 7",
+                "DwS Rose Broquet Gold Shop Item 8"
+              ],
+              "size": 14
+            },
+            {
+              "x": 1228,
+              "y": 636,
+              "locations": [
+                "DwS Above Dream Egg Dreampoint Block 1"
+              ],
+              "size": 14
+            },
+            {
+              "x": 1168,
+              "y": 655,
+              "locations": [
+                "DwS Above Dream Egg Dreampoint Block 2"
+              ],
+              "size": 14
+            },
+            {
+              "x": 1124,
+              "y": 706,
+              "locations": [
+                "DwS Dream Egg Dreampoint Room Block 4"
+              ],
+              "size": 14
+            },
+            {
+              "x": 1138,
+              "y": 706,
+              "locations": [
+                "DwS Dream Egg Dreampoint Room Block 3"
+              ],
+              "size": 14
+            },
+            {
+              "x": 1149,
+              "y": 646,
+              "locations": [
+                "DwS Dream Egg Dreampoint Room Block 1"
+              ],
+              "size": 14
+            },
+            {
+              "x": 1218,
+              "y": 744,
+              "locations": [
+                "DwS Dream Egg Dreampoint Room Block 2"
+              ],
+              "size": 14
+            },
+            {
+              "x": 1233,
+              "y": 731,
+              "label": "After Seabelle Pi'illo",
+              "locations": [
+                "DDwS After Seabelle Pi'illo Branch Block 1",
+                "DDwS After Seabelle Pi'illo Branch Block 2",
+                "DDwS After Seabelle Pi'illo Branch Block 3",
+                "DDwS After Seabelle Pi'illo Branch Block 4",
+                "DDwS After Seabelle Pi'illo Right Room Block"
+              ],
+              "size": 14
+            },
+            {
+              "x": 1407,
+              "y": 661,
+              "locations": [
+                "DwS Seabelle Dreampoint Block 4"
+              ],
+              "size": 14
+            },
+            {
+              "x": 1503,
+              "y": 683,
+              "locations": [
+                "DwS Seabelle Dreampoint Block 1"
+              ],
+              "size": 14
+            },
+            {
+              "x": 1514,
+              "y": 715,
+              "locations": [
+                "DwS Seabelle Dreampoint Bean Spot 1"
+              ],
+              "size": 14
+            },
+            {
+              "x": 1522,
+              "y": 760,
+              "locations": [
+                "DwS Seabelle Dreampoint Bean Spot 2"
+              ],
+              "size": 14
+            },
+            {
+              "x": 1436,
+              "y": 796,
+              "label": "South Platform Blocks",
+              "locations": [
+                "DwS Seabelle Dreampoint Block 2",
+                "DwS Seabelle Dreampoint Block 3"
+              ],
+              "size": 14
+            },
+            {
+              "x": 1184,
+              "y": 685,
+              "label": "Dream Egg",
+              "locations": [
+                "DDwS Dream Egg Dream Entrance Block",
+                "DDwS Dream Egg Dream First Egg Entrance Block",
+                "DDwS Dream Egg Dream First Egg Room 2 Block 1",
+                "DDwS Dream Egg Dream First Egg Room 2 Block 2",
+                "DDwS Dream Egg Dream First Egg Room 2 Block 3",
+                "DDwS Dream Egg Dream First Egg Room 2 Block 4",
+                "DDwS Dream Egg Dream First Egg Room 2 Side Room Block 1",
+                "DDwS Dream Egg Dream First Egg Room 2 Side Room Block 2",
+                "DDwS Dream Egg Dream First Egg Room 2 Side Room Block 3",
+                "DDwS Dream Egg Dream First Egg Room 3 Block 1",
+                "DDwS Dream Egg Dream First Egg Room 3 Block 2",
+                "DDwS Dream Egg Dream Second Egg Entrance Block",
+                "DDwS Dream Egg Dream Second Egg Room 1 Block",
+                "DDwS Dream Egg Dream Second Egg Room 2 Block",
+                "DDwS Dream Egg Dream Second Egg Room 2 Side Room Block 1",
+                "DDwS Dream Egg Dream Second Egg Room 2 Side Room Block 2",
+                "DDwS Dream Egg Dream Second Egg Room 2 Side Room Block 3",
+                "DDwS Dream Egg Dream Second Egg Room 3 Block",
+                "DDwS Dream Egg Dream Second Egg Room 4 Block 1",
+                "DDwS Dream Egg Dream Second Egg Room 4 Block 2",
+                "DDwS Dream Egg Dream Second Egg Room 5 Block 1",
+                "DDwS Dream Egg Dream Second Egg Room 5 Block 2",
+                "DDwS Dream Egg Dream Second Egg Room 5 Block 3",
+                "DDwS Dream Egg Dream Second Egg Room 5 Block 4",
+                "DDwS Dream Egg Dream Second Egg Room 6 Block 1",
+                "DDwS Dream Egg Dream Second Egg Room 6 Block 2",
+                "DDwS Dream Egg Dream Third Egg Entrance Block",
+                "DDwS Dream Egg Dream Third Egg Room 1 Block",
+                "DDwS Dream Egg Dream Third Egg Room 3 Block",
+                "DwS Egg Dream Shop Item 1",
+                "DwS Egg Dream Shop Item 2",
+                "DwS Egg Dream Shop Item 3",
+                "DwS Egg Dream Shop Item 4",
+                "DwS Egg Dream Shop Item 5",
+                "DwS Egg Dream Shop Item 6",
+                "DwS Egg Dream Shop Item 7",
+                "DwS Egg Dream Shop Item 8"
+              ],
+              "size": 14
+            },
+            {
+              "x": 899,
+              "y": 475,
+              "locations": [
+                "DwS Seabury Dreampoint Room Bean Spot 1"
+              ],
+              "size": 14
+            },
+            {
+              "x": 857,
+              "y": 393,
+              "locations": [
+                "DwS Seabury Dreampoint Room Block 3"
+              ],
+              "size": 14
+            },
+            {
+              "x": 912,
+              "y": 409,
+              "locations": [
+                "DwS Seabury Dreampoint Room Block 2"
+              ],
+              "size": 14
+            },
+            {
+              "x": 912,
+              "y": 384,
+              "locations": [
+                "DwS Seabury Dreampoint Room Block 1"
+              ],
+              "size": 14
+            },
+            {
+              "x": 1017,
+              "y": 428,
+              "locations": [
+                "DwS Seabury Dreampoint Room Bean Spot 2"
+              ],
+              "size": 14
+            },
+            {
+              "x": 1009,
+              "y": 451,
+              "label": "Seabury",
+              "locations": [
+                "DDwS Seabury Cutscene Block",
+                "DDwS Seabury Entrance Block 1",
+                "DDwS Seabury Entrance Block 2",
+                "DDwS Seabury Puzzle Block"
+              ],
+              "size": 14
+            },
+            {
+              "x": 984,
+              "y": 705,
+              "locations": [
+                "DwS Middle Warp Pipe Room Block 3"
+              ],
+              "size": 14
+            },
+            {
+              "x": 927,
+              "y": 675,
+              "locations": [
+                "DwS Middle Warp Pipe Room Bean Spot 1"
+              ],
+              "size": 14
+            },
+            {
+              "x": 913,
+              "y": 668,
+              "locations": [
+                "DwS Middle Warp Pipe Room Bean Spot 2"
+              ],
+              "size": 14
+            },
+            {
+              "x": 906,
+              "y": 691,
+              "locations": [
+                "DwS Middle Warp Pipe Room Block 1"
+              ],
+              "size": 14
+            },
+            {
+              "x": 886,
+              "y": 756,
+              "locations": [
+                "DwS Middle Warp Pipe Room Block 4"
+              ],
+              "size": 14
+            },
+            {
+              "x": 899,
+              "y": 753,
+              "locations": [
+                "DwS Middle Warp Pipe Room Block 2"
+              ],
+              "size": 14
+            },
+            {
+              "x": 618,
+              "y": 667,
+              "locations": [
+                "DwS Crab Minigame Block 2"
+              ],
+              "size": 14
+            },
+            {
+              "x": 703,
+              "y": 653,
+              "locations": [
+                "DwS Crab Minigame Block 1"
+              ],
+              "size": 14
+            },
+            {
+              "x": 688,
+              "y": 432,
+              "locations": [
+                "DwS Ultibed Cave Entrance Block 1"
+              ],
+              "size": 14
+            },
+            {
+              "x": 612,
+              "y": 421,
+              "locations": [
+                "DwS Ultibed Cave Entrance Block 4"
+              ],
+              "size": 14
+            },
+            {
+              "x": 650,
+              "y": 416,
+              "locations": [
+                "DwS Ultibed Cave Entrance Block 3"
+              ],
+              "size": 14
+            },
+            {
+              "x": 564,
+              "y": 443,
+              "locations": [
+                "DwS Ultibed Cave Entrance Block 2"
+              ],
+              "size": 14
+            },
+            {
+              "x": 367,
+              "y": 395,
+              "locations": [
+                "DwS Ultibed Cave Middle Room Block"
+              ],
+              "size": 14
+            },
+            {
+              "x": 1431,
+              "y": 720,
+              "locations": [
+                "DDwS Seabelle Cutscene Block"
+              ],
+              "size": 14
+            },
+            {
+              "x": 694,
+              "y": 735,
+              "locations": [
+                "DDwS Seatoon Cutscene Block"
+              ],
+              "size": 14
+            },
+            {
+              "x": 394,
+              "y": 406,
+              "locations": [
+                "DDwS Ultibed Path Pi'illo Block"
+              ],
+              "size": 14
+            },
+            {
+              "x": 231,
+              "y": 465,
+              "label": "Bean Spots",
+              "locations": [
+                "DwS Driftwood Jelly Sheets Resting Spot Bean Spot 2"
+              ],
+              "size": 14
+            }
+          ]
+        },
+        {
+          "name": "Dream World",
+          "tabs": [
+            {
+              "name": "Ball Hop Pi'illo",
+              "image": "images/8-2-1.png",
+              "location_size": 32,
+              "markers": [
+                {
+                  "x": 371,
+                  "y": 295,
+                  "locations": [
+                    "DDwS Ball Hop Dream World Block 1"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 404,
+                  "y": 295,
+                  "locations": [
+                    "DDwS Ball Hop Dream World Block 2"
+                  ],
+                  "size": 14
+                }
+              ]
+            },
+            {
+              "name": "After Seabelle Pi'illo",
+              "image": "images/8-2-2.png",
+              "location_size": 32,
+              "markers": [
+                {
+                  "x": 824,
+                  "y": 475,
+                  "locations": [
+                    "DDwS After Seabelle Pi'illo Branch Block 4"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 806,
+                  "y": 475,
+                  "locations": [
+                    "DDwS After Seabelle Pi'illo Branch Block 3"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 787,
+                  "y": 475,
+                  "locations": [
+                    "DDwS After Seabelle Pi'illo Branch Block 2"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 767,
+                  "y": 475,
+                  "locations": [
+                    "DDwS After Seabelle Pi'illo Branch Block 1"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 1207,
+                  "y": 380,
+                  "locations": [
+                    "DDwS After Seabelle Pi'illo Right Room Block"
+                  ],
+                  "size": 14
+                }
+              ]
+            },
+            {
+              "name": "Ultibed Path Pi'illo",
+              "image": "images/8-2-3.png",
+              "location_size": 32,
+              "markers": [
+                {
+                  "x": 573,
+                  "y": 518,
+                  "locations": [
+                    "DDwS Ultibed Path Pi'illo Block"
+                  ],
+                  "size": 14
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Dreampoints",
+          "tabs": [
+            {
+              "name": "Seabelle",
+              "image": "images/8-3-1.png",
+              "location_size": 32,
+              "markers": [
+                {
+                  "x": 291,
+                  "y": 427,
+                  "locations": [
+                    "DDwS Seabelle Cutscene Block"
+                  ],
+                  "size": 14
+                }
+              ]
+            },
+            {
+              "name": "Seabury",
+              "image": "images/8-3-2.png",
+              "location_size": 32,
+              "markers": [
+                {
+                  "x": 1190,
+                  "y": 492,
+                  "locations": [
+                    "DDwS Seabury Entrance Block 2"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 1414,
+                  "y": 557,
+                  "locations": [
+                    "DDwS Seabury Entrance Block 1"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 722,
+                  "y": 476,
+                  "locations": [
+                    "DDwS Seabury Puzzle Block"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 406,
+                  "y": 494,
+                  "locations": [
+                    "DDwS Seabury Cutscene Block"
+                  ],
+                  "size": 14
+                }
+              ]
+            },
+            {
+              "name": "Seatoon",
+              "image": "images/8-3-3.png",
+              "location_size": 32,
+              "markers": [
+                {
+                  "x": 800,
+                  "y": 554,
+                  "locations": [
+                    "DDwS Seatoon Cutscene Block"
+                  ],
+                  "size": 14
+                }
+              ]
+            },
+            {
+              "name": "Dream Egg",
+              "image": "images/8-3-4.png",
+              "location_size": 32,
+              "markers": [
+                {
+                  "x": 1758,
+                  "y": 489,
+                  "locations": [
+                    "DDwS Dream Egg Dream Entrance Block"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 1650,
+                  "y": 195,
+                  "label": "Shop",
+                  "locations": [
+                    "DwS Egg Dream Shop Item 1",
+                    "DwS Egg Dream Shop Item 2",
+                    "DwS Egg Dream Shop Item 3",
+                    "DwS Egg Dream Shop Item 4",
+                    "DwS Egg Dream Shop Item 5",
+                    "DwS Egg Dream Shop Item 6",
+                    "DwS Egg Dream Shop Item 7",
+                    "DwS Egg Dream Shop Item 8"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 1302,
+                  "y": 485,
+                  "locations": [
+                    "DDwS Dream Egg Dream First Egg Entrance Block"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 1153,
+                  "y": 371,
+                  "locations": [
+                    "DDwS Dream Egg Dream First Egg Room 2 Block 4"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 1153,
+                  "y": 391,
+                  "label": "? Block Platform",
+                  "locations": [
+                    "DDwS Dream Egg Dream First Egg Room 2 Block 1",
+                    "DDwS Dream Egg Dream First Egg Room 2 Block 2",
+                    "DDwS Dream Egg Dream First Egg Room 2 Block 3"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 903,
+                  "y": 347,
+                  "locations": [
+                    "DDwS Dream Egg Dream First Egg Room 2 Side Room Block 2"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 983,
+                  "y": 377,
+                  "locations": [
+                    "DDwS Dream Egg Dream First Egg Room 2 Side Room Block 1"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 854,
+                  "y": 357,
+                  "locations": [
+                    "DDwS Dream Egg Dream First Egg Room 2 Side Room Block 3"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 1260,
+                  "y": 589,
+                  "locations": [
+                    "DDwS Dream Egg Dream First Egg Room 3 Block 1"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 1328,
+                  "y": 594,
+                  "locations": [
+                    "DDwS Dream Egg Dream First Egg Room 3 Block 2"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 676,
+                  "y": 527,
+                  "locations": [
+                    "DDwS Dream Egg Dream Second Egg Entrance Block"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 472,
+                  "y": 464,
+                  "locations": [
+                    "DDwS Dream Egg Dream Second Egg Room 1 Block"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 606,
+                  "y": 672,
+                  "locations": [
+                    "DDwS Dream Egg Dream Second Egg Room 2 Block"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 332,
+                  "y": 606,
+                  "locations": [
+                    "DDwS Dream Egg Dream Second Egg Room 2 Side Room Block 3"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 432,
+                  "y": 595,
+                  "locations": [
+                    "DDwS Dream Egg Dream Second Egg Room 2 Side Room Block 1"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 413,
+                  "y": 586,
+                  "locations": [
+                    "DDwS Dream Egg Dream Second Egg Room 2 Side Room Block 2"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 823,
+                  "y": 659,
+                  "locations": [
+                    "DDwS Dream Egg Dream Second Egg Room 3 Block"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 874,
+                  "y": 805,
+                  "locations": [
+                    "DDwS Dream Egg Dream Second Egg Room 4 Block 1"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 780,
+                  "y": 822,
+                  "locations": [
+                    "DDwS Dream Egg Dream Second Egg Room 4 Block 2"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 572,
+                  "y": 835,
+                  "label": "? Block Platform",
+                  "locations": [
+                    "DDwS Dream Egg Dream Second Egg Room 5 Block 1",
+                    "DDwS Dream Egg Dream Second Egg Room 5 Block 2",
+                    "DDwS Dream Egg Dream Second Egg Room 5 Block 3"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 572,
+                  "y": 813,
+                  "locations": [
+                    "DDwS Dream Egg Dream Second Egg Room 5 Block 4"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 348,
+                  "y": 847,
+                  "locations": [
+                    "DDwS Dream Egg Dream Second Egg Room 6 Block 2"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 469,
+                  "y": 834,
+                  "locations": [
+                    "DDwS Dream Egg Dream Second Egg Room 6 Block 1"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 90,
+                  "y": 343,
+                  "locations": [
+                    "DDwS Dream Egg Dream Third Egg Entrance Block"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 371,
+                  "y": 368,
+                  "locations": [
+                    "DDwS Dream Egg Dream Third Egg Room 1 Block"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 960,
+                  "y": 210,
+                  "locations": [
+                    "DDwS Dream Egg Dream Third Egg Room 3 Block"
+                  ],
+                  "size": 14
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Somnom Woods (SmW)",
+      "tabs": [
+        {
+          "name": "Overworld",
+          "image": "images/9-1.png",
           "location_size": 32,
           "markers": [
             {
@@ -6714,7 +7607,7 @@
             {
               "x": 885,
               "y": 228,
-              "label": "SmW Room Before Pi'illodium Bean Spots",
+              "label": "Left Platform Bean Spots",
               "locations": [
                 "SmW Room Before Pi'illodium Bean Spot 1",
                 "SmW Room Before Pi'illodium Bean Spot 2",
@@ -6760,7 +7653,7 @@
             {
               "x": 707,
               "y": 373,
-              "label": "DSmW West Pi'illo Master",
+              "label": "West Pi'illo Master",
               "locations": [
                 "DSmW West Pi'illo Master Room 1 Block",
                 "DSmW West Pi'illo Master Room 2 Block 1",
@@ -6772,7 +7665,7 @@
             {
               "x": 501,
               "y": 281,
-              "label": "SmW Top Left Track Room Cave Bean Spots",
+              "label": "Cave Bean Spots",
               "locations": [
                 "SmW Top Left Track Room Cave Bean Spot 1",
                 "SmW Top Left Track Room Cave Bean Spot 2",
@@ -6799,19 +7692,10 @@
             {
               "x": 748,
               "y": 518,
-              "label": "DSmW Southwest Pi'illo Master",
+              "label": "Southwest Pi'illo Master",
               "locations": [
                 "DSmW Southwest Pi'illo Master Room 1 Block 1",
                 "DSmW Southwest Pi'illo Master Room 1 Block 2"
-              ],
-              "size": 14
-            },
-            {
-              "x": 1257,
-              "y": 490,
-              "label": "DSmW Southeast Pi'illo Master",
-              "locations": [
-                "DSmW Southeast Pi'illo Master Room 1 Block"
               ],
               "size": 14
             },
@@ -6826,10 +7710,10 @@
             {
               "x": 1103,
               "y": 250,
-              "label": "DSmW Lower Double Pi'illo",
+              "label": "Lower Double Pi'illo",
               "locations": [
-                "DSmW Upper Double Pi'illo Block 1",
-                "DSmW Upper Double Pi'illo Block 2"
+                "DSmW Lower Double Pi'illo Block 1",
+                "DSmW Lower Double Pi'illo Block 2"
               ],
               "size": 14
             },
@@ -6838,15 +7722,6 @@
               "y": 254,
               "locations": [
                 "SmW Top Right Track Room Block 1"
-              ],
-              "size": 14
-            },
-            {
-              "x": 1128,
-              "y": 239,
-              "label": "DSmW Upper Double Pi'illo",
-              "locations": [
-                "DSmW Lower Double Pi'illo Block"
               ],
               "size": 14
             },
@@ -6869,7 +7744,7 @@
             {
               "x": 953,
               "y": 223,
-              "label": "SmW Room Before Pi'illodium Blocks",
+              "label": "Right Platform Blocks",
               "locations": [
                 "SmW Room Before Pi'illodium Block 1",
                 "SmW Room Before Pi'illodium Block 2",
@@ -6881,7 +7756,7 @@
             {
               "x": 918,
               "y": 92,
-              "label": "DSmW Zeekeeper Resting Spot",
+              "label": "Zeekeeper Resting Spot",
               "locations": [
                 "DSmW Zeekeeper Resting Spot 1-2 Reference Block 1",
                 "DSmW Zeekeeper Resting Spot 1-2 Reference Block 2",
@@ -6927,7 +7802,7 @@
             {
               "x": 583,
               "y": 839,
-              "label": "DSmW Poison Water Pi'illo",
+              "label": "Poison Water Pi'illo",
               "locations": [
                 "DSmW Poison Water Pi'illo Block 1",
                 "DSmW Poison Water Pi'illo Block 2"
@@ -6951,15 +7826,6 @@
               "size": 14
             },
             {
-              "x": 1137,
-              "y": 698,
-              "label": "DSmW Other Pi'illo in First Master Room",
-              "locations": [
-                "DSmW Other Pi'illo in First Master Room Block"
-              ],
-              "size": 14
-            },
-            {
               "x": 457,
               "y": 851,
               "locations": [
@@ -6968,7 +7834,7 @@
               "size": 14
             },
             {
-              "x": 555,
+              "x": 549,
               "y": 861,
               "locations": [
                 "SmW Poison Water Puzzle 1 Block 1"
@@ -7026,7 +7892,7 @@
             {
               "x": 972,
               "y": 822,
-              "label": "SmW Side Drill Junction Block 2 and Bean Spot 2",
+              "label": "North Platform",
               "locations": [
                 "SmW Side Drill Junction Bean Spot 2",
                 "SmW Side Drill Junction Block 2"
@@ -7036,7 +7902,7 @@
             {
               "x": 956,
               "y": 700,
-              "label": "DSmW Lower Elevator Pi'illo",
+              "label": "Lower Elevator Pi'illo",
               "locations": [
                 "DSmW Lower Elevator Pi'illo Block 1",
                 "DSmW Lower Elevator Pi'illo Block 2",
@@ -7045,8 +7911,8 @@
               "size": 14
             },
             {
-              "x": 1089,
-              "y": 683,
+              "x": 1088,
+              "y": 686,
               "locations": [
                 "SmW First Pi'illo Master Room Block 1"
               ],
@@ -7063,7 +7929,7 @@
             {
               "x": 1057,
               "y": 644,
-              "label": "DSmW Pi'illo Master 1",
+              "label": "Pi'illo Master 1",
               "locations": [
                 "DSmW Pi'illo Master 1 Block 1",
                 "DSmW Pi'illo Master 1 Block 2"
@@ -7073,7 +7939,7 @@
             {
               "x": 950,
               "y": 481,
-              "label": "DSmW Pi'illo Master 2",
+              "label": "Pi'illo Master 2",
               "locations": [
                 "DSmW Pi'illo Master 2 Room 1 Block",
                 "DSmW Pi'illo Master 2 Room 2 Block 1",
@@ -7102,7 +7968,7 @@
             {
               "x": 1098,
               "y": 511,
-              "label": "SmW Bottom Right Track Room Blocks",
+              "label": "Top Left Platform Blocks",
               "locations": [
                 "SmW Bottom Right Track Room Block 1",
                 "SmW Bottom Right Track Room Block 2"
@@ -7167,8 +8033,8 @@
             },
             {
               "x": 439,
-              "y": 282,
-              "label": "SmW Top Left Track Room Cave Blocks 1 and 3",
+              "y": 284,
+              "label": "West Blocks",
               "locations": [
                 "SmW Top Left Track Room Cave Block 1",
                 "SmW Top Left Track Room Cave Block 3"
@@ -7182,6 +8048,30 @@
                 "SmW Top Right Track Room Block 2"
               ],
               "size": 14
+            },
+            {
+              "x": 1139,
+              "y": 697,
+              "locations": [
+                "DSmW Other Pi'illo in First Master Room Block"
+              ],
+              "size": 14
+            },
+            {
+              "x": 1259,
+              "y": 489,
+              "locations": [
+                "DSmW Southeast Pi'illo Master Room 1 Block"
+              ],
+              "size": 14
+            },
+            {
+              "x": 1129,
+              "y": 238,
+              "locations": [
+                "DSmW Upper Double Pi'illo Block"
+              ],
+              "size": 14
             }
           ]
         },
@@ -7190,7 +8080,7 @@
           "tabs": [
             {
               "name": "Poison Water Pi'illo",
-              "image": "images/8-2-1.png",
+              "image": "images/9-2-1.png",
               "location_size": 32,
               "markers": [
                 {
@@ -7213,7 +8103,7 @@
             },
             {
               "name": "Lower Elevator Pi'illo",
-              "image": "images/8-2-2.png",
+              "image": "images/9-2-2.png",
               "location_size": 32,
               "markers": [
                 {
@@ -7244,7 +8134,7 @@
             },
             {
               "name": "Other Pi'illo in First Master Room",
-              "image": "images/8-2-3.png",
+              "image": "images/9-2-3.png",
               "location_size": 32,
               "markers": [
                 {
@@ -7259,7 +8149,7 @@
             },
             {
               "name": "Pi'illo Master 1",
-              "image": "images/8-2-4.png",
+              "image": "images/9-2-4.png",
               "location_size": 32,
               "markers": [
                 {
@@ -7282,7 +8172,7 @@
             },
             {
               "name": "Pi'illo Master 2",
-              "image": "images/8-2-5.png",
+              "image": "images/9-2-5.png",
               "location_size": 32,
               "markers": [
                 {
@@ -7328,23 +8218,8 @@
               ]
             },
             {
-              "name": "Southeast Pi'illo Master",
-              "image": "images/8-2-6.png",
-              "location_size": 32,
-              "markers": [
-                {
-                  "x": 923,
-                  "y": 362,
-                  "locations": [
-                    "DSmW Southeast Pi'illo Master Room 1 Block"
-                  ],
-                  "size": 14
-                }
-              ]
-            },
-            {
               "name": "Southwest Pi'illo Master",
-              "image": "images/8-2-7.png",
+              "image": "images/9-2-6.png",
               "location_size": 32,
               "markers": [
                 {
@@ -7366,8 +8241,23 @@
               ]
             },
             {
+              "name": "Southeast Pi'illo Master",
+              "image": "images/9-2-7.png",
+              "location_size": 32,
+              "markers": [
+                {
+                  "x": 923,
+                  "y": 362,
+                  "locations": [
+                    "DSmW Southeast Pi'illo Master Room 1 Block"
+                  ],
+                  "size": 14
+                }
+              ]
+            },
+            {
               "name": "West Pi'illo Master",
-              "image": "images/8-2-8.png",
+              "image": "images/9-2-8.png",
               "location_size": 32,
               "markers": [
                 {
@@ -7406,7 +8296,7 @@
             },
             {
               "name": "Lower Double Pi'illo",
-              "image": "images/8-2-9.png",
+              "image": "images/9-2-9.png",
               "location_size": 32,
               "markers": [
                 {
@@ -7429,7 +8319,7 @@
             },
             {
               "name": "Upper Double Pi'illo",
-              "image": "images/8-2-10.png",
+              "image": "images/9-2-10.png",
               "location_size": 32,
               "markers": [
                 {
@@ -7446,7 +8336,7 @@
         },
         {
           "name": "Zeekeeper Resting Spot",
-          "image": "images/8-3.png",
+          "image": "images/9-3.png",
           "location_size": 32,
           "markers": [
             {
@@ -7460,7 +8350,7 @@
             {
               "x": 1055,
               "y": 872,
-              "label": "DSmW Zeekeeper Resting Spot Monster Path Blocks",
+              "label": "Monster Path Blocks",
               "locations": [
                 "DSmW Zeekeeper Resting Spot Monster Path Block 1",
                 "DSmW Zeekeeper Resting Spot Monster Path Block 2",
@@ -7477,16 +8367,16 @@
               "size": 14
             },
             {
-              "x": 1123,
-              "y": 595,
+              "x": 1121,
+              "y": 599,
               "locations": [
                 "DSmW Zeekeeper Resting Spot Many Pipe Room Block 6"
               ],
               "size": 14
             },
             {
-              "x": 1154,
-              "y": 398,
+              "x": 1250,
+              "y": 517,
               "locations": [
                 "DSmW Zeekeeper Resting Spot Many Pipe Room Block 7"
               ],
@@ -7501,17 +8391,9 @@
               "size": 14
             },
             {
-              "x": 1123,
-              "y": 441,
-              "locations": [
-                "DSmW Zeekeeper Resting Spot Many Pipe Room Block 9"
-              ],
-              "size": 14
-            },
-            {
-              "x": 1198,
-              "y": 529,
-              "label": "DSmW Zeekeeper Resting Spot Many Pipe Room Blocks 1-5",
+              "x": 1197,
+              "y": 528,
+              "label": "? Block Platform",
               "locations": [
                 "DSmW Zeekeeper Resting Spot Many Pipe Room Block 1",
                 "DSmW Zeekeeper Resting Spot Many Pipe Room Block 2",
@@ -7530,7 +8412,7 @@
               "size": 14
             },
             {
-              "x": 1670,
+              "x": 1671,
               "y": 397,
               "locations": [
                 "DSmW Zeekeeper Resting Spot Vertical Windy Room Block 2"
@@ -7542,6 +8424,182 @@
               "y": 363,
               "locations": [
                 "DSmW Zeekeeper Resting Spot First Luigination Room Block"
+              ],
+              "size": 14
+            },
+            {
+              "x": 1548,
+              "y": 589,
+              "locations": [
+                "DSmW Zeekeeper Resting Spot Large Sneeze Room Block 3"
+              ],
+              "size": 14
+            },
+            {
+              "x": 1658,
+              "y": 518,
+              "locations": [
+                "DSmW Zeekeeper Resting Spot Vertical Windy Room Block 1"
+              ],
+              "size": 14
+            },
+            {
+              "x": 1673,
+              "y": 518,
+              "locations": [
+                "DSmW Zeekeeper Resting Spot Vertical Windy Room Block 3"
+              ],
+              "size": 14
+            },
+            {
+              "x": 1424,
+              "y": 600,
+              "locations": [
+                "DSmW Zeekeeper Resting Spot Large Sneeze Room Block 4"
+              ],
+              "size": 14
+            },
+            {
+              "x": 1424,
+              "y": 576,
+              "locations": [
+                "DSmW Zeekeeper Resting Spot Large Sneeze Room Block 2"
+              ],
+              "size": 14
+            },
+            {
+              "x": 1320,
+              "y": 568,
+              "locations": [
+                "DSmW Zeekeeper Resting Spot Large Sneeze Room Block 1"
+              ],
+              "size": 14
+            },
+            {
+              "x": 1197,
+              "y": 504,
+              "locations": [
+                "DSmW Zeekeeper Resting Spot Many Pipe Room Block 9"
+              ],
+              "size": 14
+            },
+            {
+              "x": 759,
+              "y": 556,
+              "locations": [
+                "DSmW Zeekeeper Resting Spot Large Luigination Room Block 1"
+              ],
+              "size": 14
+            },
+            {
+              "x": 462,
+              "y": 475,
+              "locations": [
+                "DSmW Zeekeeper Resting Spot Right Moustache Room Block 2"
+              ],
+              "size": 14
+            },
+            {
+              "x": 448,
+              "y": 514,
+              "locations": [
+                "DSmW Zeekeeper Resting Spot Right Moustache Room Block 3"
+              ],
+              "size": 14
+            },
+            {
+              "x": 376,
+              "y": 475,
+              "locations": [
+                "DSmW Zeekeeper Resting Spot Right Moustache Room Block 4"
+              ],
+              "size": 14
+            },
+            {
+              "x": 342,
+              "y": 475,
+              "locations": [
+                "DSmW Zeekeeper Resting Spot Right Moustache Room Block 1"
+              ],
+              "size": 14
+            },
+            {
+              "x": 127,
+              "y": 733,
+              "locations": [
+                "DSmW Zeekeeper Resting Spot 1-2 Reference Block 3"
+              ],
+              "size": 14
+            },
+            {
+              "x": 179,
+              "y": 744,
+              "locations": [
+                "DSmW Zeekeeper Resting Spot 1-2 Reference Block 2"
+              ],
+              "size": 14
+            },
+            {
+              "x": 317,
+              "y": 733,
+              "locations": [
+                "DSmW Zeekeeper Resting Spot 1-2 Reference Block 1"
+              ],
+              "size": 14
+            },
+            {
+              "x": 147,
+              "y": 509,
+              "locations": [
+                "DSmW Zeekeeper Resting Spot Left Moustache Room Block 3"
+              ],
+              "size": 14
+            },
+            {
+              "x": 240,
+              "y": 438,
+              "locations": [
+                "DSmW Zeekeeper Resting Spot Left Moustache Room Block 1"
+              ],
+              "size": 14
+            },
+            {
+              "x": 218,
+              "y": 402,
+              "locations": [
+                "DSmW Zeekeeper Resting Spot Left Moustache Room Block 2"
+              ],
+              "size": 14
+            },
+            {
+              "x": 782,
+              "y": 419,
+              "locations": [
+                "DSmW Zeekeeper Resting Spot Large Luigination Room Block 2"
+              ],
+              "size": 14
+            },
+            {
+              "x": 1154,
+              "y": 249,
+              "locations": [
+                "DSmW Zeekeeper Resting Spot Before Boss Block"
+              ],
+              "size": 14
+            },
+            {
+              "x": 238,
+              "y": 513,
+              "locations": [
+                "DSmW Zeekeeper Resting Spot Left Moustache Room Block 4"
+              ],
+              "size": 14
+            },
+            {
+              "x": 218,
+              "y": 563,
+              "locations": [
+                "DSmW Zeekeeper Resting Spot Left Moustache Room Block 5"
               ],
               "size": 14
             }
@@ -7557,13 +8615,13 @@
           "tabs": [
             {
               "name": "First Floor",
-              "image": "images/9-1-1.png",
+              "image": "images/10-1-1.png",
               "location_size": 32,
               "markers": [
                 {
                   "x": 594,
                   "y": 516,
-                  "label": "NBC Kamek 1 Lobby Blocks 1 and 2",
+                  "label": "East Blocks",
                   "locations": [
                     "NBC Kamek 1 Lobby Block 1",
                     "NBC Kamek 1 Lobby Block 2"
@@ -7573,7 +8631,7 @@
                 {
                   "x": 543,
                   "y": 519,
-                  "label": "DNBC Kamek 1 Dream",
+                  "label": "Kamek 1 Dream",
                   "locations": [
                     "DNBC Kamek 1 Dream Antigravity Intro Block 1",
                     "DNBC Kamek 1 Dream Antigravity Intro Block 2",
@@ -7682,7 +8740,7 @@
                 {
                   "x": 510,
                   "y": 117,
-                  "label": "NBC First Elevator Lower Room Bean Spots",
+                  "label": "West Platform Bean Spots",
                   "locations": [
                     "NBC First Elevator Lower Room Bean Spot 1",
                     "NBC First Elevator Lower Room Bean Spot 2"
@@ -7691,8 +8749,8 @@
                 },
                 {
                   "x": 535,
-                  "y": 882,
-                  "label": "NBC Shell Hutch",
+                  "y": 854,
+                  "label": "Shop",
                   "locations": [
                     "NBC Shell Hutch Item 1",
                     "NBC Shell Hutch Item 2",
@@ -7709,7 +8767,7 @@
             },
             {
               "name": "Second Floor",
-              "image": "images/9-1-2.png",
+              "image": "images/10-1-2.png",
               "location_size": 32,
               "markers": [
                 {
@@ -7723,7 +8781,7 @@
                 {
                   "x": 329,
                   "y": 883,
-                  "label": "DNBC Kamek 2 Dream",
+                  "label": "Kamek 2 Dream",
                   "locations": [
                     "DNBC Kamek 2 Dream Arena Block",
                     "DNBC Kamek 2 Dream Before Arena Block",
@@ -7733,9 +8791,9 @@
                   "size": 14
                 },
                 {
-                  "x": 354,
-                  "y": 378,
-                  "label": "DNBC Kamek 3 Dream",
+                  "x": 353,
+                  "y": 377,
+                  "label": "Kamek 3 Dream",
                   "locations": [
                     "DNBC Kamek 3 Dream Arena Block",
                     "DNBC Kamek 3 Dream Entrance Block 1",
@@ -7772,7 +8830,7 @@
                 {
                   "x": 382,
                   "y": 1031,
-                  "label": "NBC First Bomb Room Blocks 4 and 5",
+                  "label": "East Platform Blocks",
                   "locations": [
                     "NBC First Bomb Room Block 4",
                     "NBC First Bomb Room Block 5"
@@ -7790,7 +8848,7 @@
                 {
                   "x": 147,
                   "y": 892,
-                  "label": "NBC Kamek 2 Left Room Bean Spots",
+                  "label": "Southwest Bean Spots",
                   "locations": [
                     "NBC Kamek 2 Left Room Bean Spot 1",
                     "NBC Kamek 2 Left Room Bean Spot 2"
@@ -7808,7 +8866,7 @@
                 {
                   "x": 209,
                   "y": 873,
-                  "label": "NBC Kamek 2 Left Room Blocks 1 and 2",
+                  "label": "Northeast Blocks",
                   "locations": [
                     "NBC Kamek 2 Left Room Block 1",
                     "NBC Kamek 2 Left Room Block 2"
@@ -7826,7 +8884,7 @@
                 {
                   "x": 296,
                   "y": 767,
-                  "label": "NBC Above Kamek 2 Blocks 2 and 5",
+                  "label": "Southwest Blocks",
                   "locations": [
                     "NBC Above Kamek 2 Block 2",
                     "NBC Above Kamek 2 Block 5"
@@ -7836,7 +8894,7 @@
                 {
                   "x": 378,
                   "y": 751,
-                  "label": "NBC Above Kamek 2 Blocks 3 and 4",
+                  "label": "Southeast Blocks",
                   "locations": [
                     "NBC Above Kamek 2 Block 3",
                     "NBC Above Kamek 2 Block 4"
@@ -7870,7 +8928,7 @@
                 {
                   "x": 509,
                   "y": 897,
-                  "label": "NBC Kamek 2 Right Room Blocks 2 and 3",
+                  "label": "East Blocks",
                   "locations": [
                     "NBC Kamek 2 Right Room Block 2",
                     "NBC Kamek 2 Right Room Block 3"
@@ -7888,7 +8946,7 @@
                 {
                   "x": 341,
                   "y": 580,
-                  "label": "NBC Annoying Quadruple Bomb Room Blocks 1 and 2",
+                  "label": "South Blocks",
                   "locations": [
                     "NBC Annoying Quadruple Bomb Room Block 1",
                     "NBC Annoying Quadruple Bomb Room Block 2"
@@ -7922,7 +8980,7 @@
                 {
                   "x": 531,
                   "y": 368,
-                  "label": "NBC East of Kamek 3 Bean Spots",
+                  "label": "East Bean Spots",
                   "locations": [
                     "NBC East of Kamek 3 Bean Spot 1",
                     "NBC East of Kamek 3 Bean Spot 2"
@@ -7938,9 +8996,9 @@
                   "size": 14
                 },
                 {
-                  "x": 533,
+                  "x": 534,
                   "y": 284,
-                  "label": "NBC Kamek 3 Eastern Bomb Room Blocks 3 and 4",
+                  "label": "Southeast Blocks",
                   "locations": [
                     "NBC Kamek 3 Eastern Bomb Room Block 3",
                     "NBC Kamek 3 Eastern Bomb Room Block 4"
@@ -7966,7 +9024,7 @@
                 {
                   "x": 245,
                   "y": 364,
-                  "label": "NBC West of Kamek 3 Blocks 2 and 3",
+                  "label": "East Blocks",
                   "locations": [
                     "NBC West of Kamek 3 Block 2",
                     "NBC West of Kamek 3 Block 3"
@@ -7992,7 +9050,7 @@
                 {
                   "x": 154,
                   "y": 221,
-                  "label": "NBC Kamek 3 Western Bomb Room Blocks 2 and 3",
+                  "label": "Northwest Blocks",
                   "locations": [
                     "NBC Kamek 3 Western Bomb Room Block 2",
                     "NBC Kamek 3 Western Bomb Room Block 3"
@@ -8002,7 +9060,7 @@
                 {
                   "x": 154,
                   "y": 236,
-                  "label": "NBC Kamek 3 Western Bomb Room Bean Spots",
+                  "label": "Northwest Bean Spots",
                   "locations": [
                     "NBC Kamek 3 Western Bomb Room Bean Spot 1",
                     "NBC Kamek 3 Western Bomb Room Bean Spot 2"
@@ -8029,13 +9087,13 @@
             },
             {
               "name": "Third Floor",
-              "image": "images/9-1-3.png",
+              "image": "images/10-1-3.png",
               "location_size": 32,
               "markers": [
                 {
-                  "x": 510,
+                  "x": 509,
                   "y": 309,
-                  "label": "DNBC Left Flame Pipe Dream",
+                  "label": "Left Flame Pipe Dream",
                   "locations": [
                     "DNBC Left Flame Pipe Dream Room 3 Block 1",
                     "DNBC Left Flame Pipe Dream Room 3 Block 2"
@@ -8045,7 +9103,7 @@
                 {
                   "x": 588,
                   "y": 286,
-                  "label": "DNBC Top Right Flame Pipe Dream",
+                  "label": "Top Right Flame Pipe Dream",
                   "locations": [
                     "DNBC Top Right Flame Pipe Dream Room 1 Block 1",
                     "DNBC Top Right Flame Pipe Dream Room 1 Block 2",
@@ -8056,7 +9114,7 @@
                 {
                   "x": 588,
                   "y": 334,
-                  "label": "DNBC Bottom Right Flame Pipe Dream",
+                  "label": "Bottom Right Flame Pipe Dream",
                   "locations": [
                     "DNBC Bottom Right Flame Pipe Dream Room 2 Block"
                   ],
@@ -8065,7 +9123,7 @@
                 {
                   "x": 250,
                   "y": 635,
-                  "label": "NBC Bottom Left of Flame Pipes Blocks",
+                  "label": "Southwest Platform Blocks",
                   "locations": [
                     "NBC Bottom Left of Flame Pipes Block 1",
                     "NBC Bottom Left of Flame Pipes Block 2"
@@ -8075,7 +9133,7 @@
                 {
                   "x": 489,
                   "y": 777,
-                  "label": "NBC Front Balcony Bean Spots 1 and 2",
+                  "label": "West Bean Spots",
                   "locations": [
                     "NBC Front Balcony Bean Spot 1",
                     "NBC Front Balcony Bean Spot 2"
@@ -8085,7 +9143,7 @@
                 {
                   "x": 649,
                   "y": 777,
-                  "label": "NBC Front Balcony Bean Spots 3 and 4",
+                  "label": "East Bean Spots",
                   "locations": [
                     "NBC Front Balcony Bean Spot 3",
                     "NBC Front Balcony Bean Spot 4"
@@ -8152,13 +9210,13 @@
             },
             {
               "name": "Top Floor",
-              "image": "images/9-1-4.png",
+              "image": "images/10-1-4.png",
               "location_size": 32,
               "markers": [
                 {
-                  "x": 449,
+                  "x": 448,
                   "y": 908,
-                  "label": "DNBC Bowser's Dream",
+                  "label": "Bowser's Dream",
                   "locations": [
                     "DNBC Bowser's Dream Door to Giant Cannons Block 1",
                     "DNBC Bowser's Dream Door to Giant Cannons Block 2",
@@ -8189,7 +9247,7 @@
           "tabs": [
             {
               "name": "Kamek 1 Dream",
-              "image": "images/9-2-1.png",
+              "image": "images/10-2-1.png",
               "location_size": 32,
               "markers": [
                 {
@@ -8348,7 +9406,7 @@
             },
             {
               "name": "Kamek 2 Dream",
-              "image": "images/9-2-2.png",
+              "image": "images/10-2-2.png",
               "location_size": 32,
               "markers": [
                 {
@@ -8387,7 +9445,7 @@
             },
             {
               "name": "Kamek 3 Dream",
-              "image": "images/9-2-3.png",
+              "image": "images/10-2-3.png",
               "location_size": 32,
               "markers": [
                 {
@@ -8434,7 +9492,7 @@
             },
             {
               "name": "Left Flame Pipe Dream",
-              "image": "images/9-2-4.png",
+              "image": "images/10-2-4.png",
               "location_size": 32,
               "markers": [
                 {
@@ -8457,13 +9515,13 @@
             },
             {
               "name": "Top Right Flame Pipe Dream",
-              "image": "images/9-2-5.png",
+              "image": "images/10-2-5.png",
               "location_size": 32,
               "markers": [
                 {
                   "x": 453,
                   "y": 832,
-                  "label": "DNBC Top Right Flame Pipe Dream Room 1 Blocks and 2",
+                  "label": "Lower Blocks",
                   "locations": [
                     "DNBC Top Right Flame Pipe Dream Room 1 Block 1",
                     "DNBC Top Right Flame Pipe Dream Room 1 Block 2"
@@ -8482,7 +9540,7 @@
             },
             {
               "name": "Bottom Right Flame Pipe Dream",
-              "image": "images/9-2-6.png",
+              "image": "images/10-2-6.png",
               "location_size": 32,
               "markers": [
                 {
@@ -8497,7 +9555,7 @@
             },
             {
               "name": "Bowser's Dream",
-              "image": "images/9-2-7.png",
+              "image": "images/10-2-7.png",
               "location_size": 32,
               "markers": [
                 {
