@@ -23,8 +23,8 @@ Progress:
 
 -Mount Pajamaja: 🟢
 
--Driftwood Shore: 🔴
+-Driftwood Shore: 🟢
 
--Somnom Woods: 🟡
+-Somnom Woods: 🟢
 
 -Neo Bowser Castle: 🟡
