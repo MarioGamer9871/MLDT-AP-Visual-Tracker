@@ -1359,18 +1359,18 @@
           "size": 14
         },
         {
-          "x": 657,
-          "y": 433,
-          "locations": [
-            "Bp Toad Crash Room Block 4"
-          ],
-          "size": 14
-        },
-        {
           "x": 659,
           "y": 420,
           "locations": [
             "Bp Second Toad Crash Room Block 3"
+          ],
+          "size": 14
+        },
+        {
+          "x": 657,
+          "y": 432,
+          "locations": [
+            "Bp Second Toad Crash Room Block 4"
           ],
           "size": 14
         }
@@ -9521,7 +9521,7 @@
                 {
                   "x": 453,
                   "y": 832,
-                  "label": "Lower Blocks",
+                  "label": "? Block Platform",
                   "locations": [
                     "DNBC Top Right Flame Pipe Dream Room 1 Block 1",
                     "DNBC Top Right Flame Pipe Dream Room 1 Block 2"
@@ -9561,7 +9561,7 @@
                 {
                   "x": 547,
                   "y": 506,
-                  "label": "DNBC Bowser's Dream Shop",
+                  "label": "Shop",
                   "locations": [
                     "DNBC Bowser's Dream Shop Item 1",
                     "DNBC Bowser's Dream Shop Item 2",
@@ -9571,6 +9571,78 @@
                     "DNBC Bowser's Dream Shop Item 6",
                     "DNBC Bowser's Dream Shop Item 7",
                     "DNBC Bowser's Dream Shop Item 8"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 138,
+                  "y": 603,
+                  "locations": [
+                    "DNBC Bowser's Dream First Bowser Encounter Block"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 287,
+                  "y": 954,
+                  "locations": [
+                    "DNBC Bowser's Dream Path Back 2 Block 1"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 358,
+                  "y": 972,
+                  "locations": [
+                    "DNBC Bowser's Dream Path Back 2 Block 2"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 875,
+                  "y": 929,
+                  "locations": [
+                    "DNBC Bowser's Dream Path Back 4 Block 1"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 929,
+                  "y": 901,
+                  "locations": [
+                    "DNBC Bowser's Dream Path Back 4 Block 2"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 1032,
+                  "y": 640,
+                  "locations": [
+                    "DNBC Bowser's Dream Path Back 7 Block"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 814,
+                  "y": 628,
+                  "locations": [
+                    "DNBC Bowser's Dream Door to Giant Cannons Block 1"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 731,
+                  "y": 627,
+                  "locations": [
+                    "DNBC Bowser's Dream Door to Giant Cannons Block 2"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 745,
+                  "y": 245,
+                  "locations": [
+                    "DNBC Bowser's Dream Giant Cannons Block"
                   ],
                   "size": 14
                 }
