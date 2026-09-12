@@ -2184,14 +2184,6 @@
               "size": 14
             },
             {
-              "x": 174,
-              "y": 341,
-              "locations": [
-                "MrP West of Hammer Tutorial Room Block 2"
-              ],
-              "size": 14
-            },
-            {
               "x": 335,
               "y": 462,
               "locations": [
@@ -2746,6 +2738,14 @@
               "y": 496,
               "locations": [
                 "MrP Upper Rock Room Bean Spot 2"
+              ],
+              "size": 14
+            },
+            {
+              "x": 174,
+              "y": 340,
+              "locations": [
+                "MrP River Rocks Block 2"
               ],
               "size": 14
             }
@@ -3581,70 +3581,6 @@
               "size": 14
             },
             {
-              "x": 380,
-              "y": 148,
-              "locations": [
-                "DzS Shell Hutch Item 1"
-              ],
-              "size": 14
-            },
-            {
-              "x": 380,
-              "y": 148,
-              "locations": [
-                "DzS Shell Hutch Item 2"
-              ],
-              "size": 14
-            },
-            {
-              "x": 380,
-              "y": 148,
-              "locations": [
-                "DzS Shell Hutch Item 3"
-              ],
-              "size": 14
-            },
-            {
-              "x": 380,
-              "y": 148,
-              "locations": [
-                "DzS Shell Hutch Item 4"
-              ],
-              "size": 14
-            },
-            {
-              "x": 380,
-              "y": 148,
-              "locations": [
-                "DzS Shell Hutch Item 5"
-              ],
-              "size": 14
-            },
-            {
-              "x": 380,
-              "y": 148,
-              "locations": [
-                "DzS Shell Hutch Item 6"
-              ],
-              "size": 14
-            },
-            {
-              "x": 380,
-              "y": 148,
-              "locations": [
-                "DzS Shell Hutch Item 7"
-              ],
-              "size": 14
-            },
-            {
-              "x": 380,
-              "y": 148,
-              "locations": [
-                "DzS Shell Hutch Item 8"
-              ],
-              "size": 14
-            },
-            {
               "x": 555,
               "y": 160,
               "locations": [
@@ -3975,6 +3911,22 @@
                 "DDzS Mattress Dream Bottom Room Block 2",
                 "DDzS Mattress Dream Bottom Room Block 3",
                 "DDzS Mattress Dream Top Room Block"
+              ],
+              "size": 14
+            },
+            {
+              "x": 379,
+              "y": 148,
+              "label": "Shop",
+              "locations": [
+                "DzS Shell Hutch Item 1",
+                "DzS Shell Hutch Item 2",
+                "DzS Shell Hutch Item 3",
+                "DzS Shell Hutch Item 4",
+                "DzS Shell Hutch Item 5",
+                "DzS Shell Hutch Item 6",
+                "DzS Shell Hutch Item 7",
+                "DzS Shell Hutch Item 8"
               ],
               "size": 14
             }
@@ -7143,9 +7095,16 @@
               "size": 14
             },
             {
-              "x": 231,
-              "y": 465,
-              "label": "Bean Spots",
+              "x": 232,
+              "y": 466,
+              "locations": [
+                "DwS Driftwood Jelly Sheets Resting Spot Bean Spot 1"
+              ],
+              "size": 14
+            },
+            {
+              "x": 170,
+              "y": 448,
               "locations": [
                 "DwS Driftwood Jelly Sheets Resting Spot Bean Spot 2"
               ],
@@ -8762,6 +8721,38 @@
                     "NBC Shell Hutch Item 8"
                   ],
                   "size": 14
+                },
+                {
+                  "x": 797,
+                  "y": 346,
+                  "locations": [
+                    "NBC Kamek 1 Top Right Block 1"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 785,
+                  "y": 298,
+                  "locations": [
+                    "NBC Kamek 1 Top Right Block 2"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 766,
+                  "y": 297,
+                  "locations": [
+                    "NBC Kamek 1 Top Right Block 3"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 800,
+                  "y": 329,
+                  "locations": [
+                    "NBC Kamek 1 Top Right Block 4"
+                  ],
+                  "size": 14
                 }
               ]
             },
@@ -9203,6 +9194,17 @@
                   "y": 381,
                   "locations": [
                     "NBC Left Balcony Bean Spot"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 568,
+                  "y": 814,
+                  "label": "Mini Mario Blocks",
+                  "locations": [
+                    "NBC Front Balcony Block 1",
+                    "NBC Front Balcony Block 2",
+                    "NBC Front Balcony Block 3"
                   ],
                   "size": 14
                 }
