@@ -7,8 +7,3 @@ How to use:
 3. Place the Dream Team Visual Tracker zip file into the "visual_packs" folder located in the main archipelago folder (You may have to open Visual Tracker using the archipelago launcher to get the folder to show up)
 
 4. Open Visual Tracker using the archipelago launcher, connect to a slot, and select the Mario & Luigi: Dream Team pack
-
-
-Progress:
-
-🟢 Fully Complete 🟢 
