@@ -4218,14 +4218,6 @@
                   "size": 14
                 },
                 {
-                  "x": 705,
-                  "y": 886,
-                  "locations": [
-                    "DDzS Dream Stone After Big Drill Room Block 2"
-                  ],
-                  "size": 14
-                },
-                {
                   "x": 752,
                   "y": 899,
                   "locations": [
@@ -4246,6 +4238,14 @@
                     "DDzS Britta Shop Item 6",
                     "DDzS Britta Shop Item 7",
                     "DDzS Britta Shop Item 8"
+                  ],
+                  "size": 14
+                },
+                {
+                  "x": 705,
+                  "y": 883,
+                  "locations": [
+                    "DDzS Dream Stone Dream Last Attack Pieces Block 2"
                   ],
                   "size": 14
                 }
@@ -4683,8 +4683,8 @@
               "size": 14
             },
             {
-              "x": 628,
-              "y": 453,
+              "x": 565,
+              "y": 455,
               "label": "Gear Shop",
               "locations": [
                 "Wp Gear Shop Item 1",
@@ -4699,8 +4699,8 @@
               "size": 14
             },
             {
-              "x": 564,
-              "y": 454,
+              "x": 629,
+              "y": 456,
               "label": "Badge Shop",
               "locations": [
                 "Wp Badge Shop Item 1",
